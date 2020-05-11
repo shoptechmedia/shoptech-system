@@ -1,0 +1,94 @@
+.MasterClassOpen{
+	overflow: hidden;
+}
+
+#MasterClassFrame{
+	width: 0;
+	height: 100%;
+
+	border-width: 0 0 0 1px;
+	border-style: solid;
+	border-color: #000;
+
+	position: fixed;
+	right: -1px;
+	top: 0;
+	bottom: 0;
+
+	z-index: 99999999;
+	background-color: #fff;
+
+	transition: width .2s;
+	-moz-transition: width .2s;
+	-webkit-transition: width .2s;
+}
+
+.MasterClassOpen #MasterClassFrame{
+	width: 320px;
+	right: 0;
+
+	transition: width .2s;
+	-moz-transition: width .2s;
+	-webkit-transition: width .2s;
+}
+
+.MasterClassOpen body{
+	max-width: calc(100% - 320px);
+	overflow: auto;
+	z-index: 1;
+	position: relative;
+}
+
+.MasterClassOpen #header_infos{
+	right: 320px;
+}
+
+#MasterClassTrigger{
+	background-color: #bf0005;
+	border-width: 0;
+	height: 32px;
+	width: 32px;
+	margin: auto;
+	color: #fff;
+
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+
+	z-index: 99999998;
+
+	transition: right .2s;
+	-moz-transition: right .2s;
+	-webkit-transition: right .2s;
+}
+
+.MasterClassOpen #MasterClassTrigger{
+	right: 320px;
+
+	transition: right .2s;
+	-moz-transition: right .2s;
+	-webkit-transition: right .2s;
+}
+
+#DashboardMasterClassVideo{
+	position: relative;
+}
+
+#DashboardMasterClassVideo.closed > div{
+	display: none;
+}
+
+#ClosingTrigger{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+    border-radius: 50%;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+}

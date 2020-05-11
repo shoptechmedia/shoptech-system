@@ -1,0 +1,18 @@
+*DEBUG* 	2020/02/06 - 12:39:56: START: PKHelper::get_http(https://demo.shoptech.media/analytics/index.php?module=API&language=en&idSite=1&token_auth=9906f875822490790f7943679e6a90ae&method=SitesManager.getSiteFromId&format=JSON,Array
+(
+)
+)
+*DEBUG* 	2020/02/06 - 12:39:56: Using 'cURL' to fetch remote
+*DEBUG* 	2020/02/06 - 12:39:56: 	: $ch = curl_init()
+*DEBUG* 	2020/02/06 - 12:39:56: 	: curl_setopt($ch, CURLOPT_URL, https://demo.shoptech.media/analytics/index.php?module=API&language=en&idSite=1&token_auth=9906f875822490790f7943679e6a90ae&method=SitesManager.getSiteFromId&format=JSON)
+*DEBUG* 	2020/02/06 - 12:39:56: 	: curl_setopt($ch, CURLOPT_HTTPHEADER, array(...))
+*DEBUG* 	2020/02/06 - 12:39:57: END: PKHelper::get_http(): OK
+*DEBUG* 	2020/02/06 - 12:39:57: START: PKHelper::get_http(https://demo.shoptech.media/analytics/index.php?module=API&language=en&idSite=1&token_auth=9906f875822490790f7943679e6a90ae&method=SitesManager.getImageTrackingCode&format=JSON&actionName=NoJavaScript&piwikUrl=demo.shoptech.media%2Fanalytics,Array
+(
+)
+)
+*DEBUG* 	2020/02/06 - 12:39:57: Using 'cURL' to fetch remote
+*DEBUG* 	2020/02/06 - 12:39:57: 	: $ch = curl_init()
+*DEBUG* 	2020/02/06 - 12:39:57: 	: curl_setopt($ch, CURLOPT_URL, https://demo.shoptech.media/analytics/index.php?module=API&language=en&idSite=1&token_auth=9906f875822490790f7943679e6a90ae&method=SitesManager.getImageTrackingCode&format=JSON&actionName=NoJavaScript&piwikUrl=demo.shoptech.media%2Fanalytics)
+*DEBUG* 	2020/02/06 - 12:39:57: 	: curl_setopt($ch, CURLOPT_HTTPHEADER, array(...))
+*DEBUG* 	2020/02/06 - 12:39:57: END: PKHelper::get_http(): OK

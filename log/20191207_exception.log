@@ -1,0 +1,4 @@
+*ERROR* 	2019/12/07 - 10:36:34: Too few arguments to function DbCore::executeS(), 0 passed in /home/shoptech/public_html/demo/modules/piwikanalyticsjs/piwikanalyticsjs.php on line 1652 and at least 1 expected at line 691 in file classes/db/Db.php
+*ERROR* 	2019/12/07 - 10:59:41: Duplicate entry '2-0-1022453446' for key 'PRIMARY' at line 1704 in file modules/piwikanalyticsjs/piwikanalyticsjs.php
+*ERROR* 	2019/12/07 - 11:32:13: Call to a member function isLogged() on null at line 1409 in file modules/piwikanalyticsjs/piwikanalyticsjs.php
+*ERROR* 	2019/12/07 - 11:33:23: Call to a member function isLogged() on null at line 1409 in file modules/piwikanalyticsjs/piwikanalyticsjs.php

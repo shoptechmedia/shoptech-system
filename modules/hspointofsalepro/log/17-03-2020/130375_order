@@ -1,0 +1,1168 @@
+*DEBUG* 	2020/03/17 - 13:57:36: Property PosOrder->total_paid is empty
+*DEBUG* 	2020/03/17 - 13:57:36: PosCart Object
+(
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 50012
+    [id_address_invoice] => 50012
+    [id_currency] => 1
+    [id_customer] => 20789
+    [id_guest] => 0
+    [id_lang] => 2
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2020-03-17 13:55:44
+    [secure_key] => a249a2ffe4dfcaf340bf51cabc2baa4f
+    [id_carrier] => 284
+    [date_upd] => 2020-03-17 13:56:44
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:50012;s:4:"284,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => Array
+        (
+            [0] => Array
+                (
+                    [id_product_attribute] => 0
+                    [id_product] => 8469
+                    [cart_quantity] => 2
+                    [id_shop] => 1
+                    [name] => Vase aflang m/ ansigt hvid - Bloomingville
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: Ø: 6 cm H: 14,5 cm Materiale: Stentøj, Keramik</p><br /><p>Hvid vase i aflang med ansigt fra Bloomingville. Vasen er aflang og ville være flot at mikse med andre vaser i forskellige former og mønstre. Vasen er glaseret og kan derfor variere i farven. </p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 27
+                    [id_supplier] => 0
+                    [id_manufacturer] => 4
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 55.2
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 10
+                    [width] => 0.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.000000
+                    [date_add] => 2020-01-03 15:38:32
+                    [date_upd] => 2020-01-30 23:05:53
+                    [quantity] => 2
+                    [link_rewrite] => vase-aflang-m-ansigt-hvid-bloomingville
+                    [category] => vaser-skjulere
+                    [unique_id] => 0000008469000000000050012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 
+                    [ecotax_attr] => 
+                    [reference] => 82047424
+                    [weight_attribute] => 
+                    [ean13] => 5711173238613
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 30.500000
+                    [id_image] => 8469-26974
+                    [legend] => Vase aflang m/ ansigt hvid - Bloomingville
+                    [reduction_type] => 0
+                    [stock_quantity] => 10
+                    [price_without_reduction_tax_incl] => 69
+                    [price_without_reduction_tax_excl] => 55.2
+                    [price_with_reduction_tax_incl] => 69
+                    [price_with_reduction_tax_excl] => 55.2
+                    [price_with_only_reduction_tax_incl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 0
+                    [price_with_only_reduction_tax_excl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 0
+                    [price_without_customer_discount_tax_incl] => 69
+                    [price_without_customer_discount_tax_excl] => 55.2
+                    [total] => 110.4
+                    [total_wt] => 138
+                    [price_wt] => 69
+                    [reduction_applies] => 
+                    [quantity_discount_applies] => 
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+            [1] => Array
+                (
+                    [id_product_attribute] => 0
+                    [id_product] => 8864
+                    [cart_quantity] => 1
+                    [id_shop] => 1
+                    [name] => Glasflaske m/ låg - Ib Laursen 
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: H: 19,5 cm  Ø: 6 cm </p><br /><p>Glasflaske med låg fra Ib Laursen. Glasflasken kan både bruges til bedelys og krone lys, men kan også bruges som en lille vase med en stilk i. Glasflasken har et råt look. </p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 31
+                    [id_supplier] => 0
+                    [id_manufacturer] => 3
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 24
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 11
+                    [width] => 0.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.000000
+                    [date_add] => 2020-02-19 11:13:37
+                    [date_upd] => 2020-03-17 10:21:08
+                    [quantity] => 1
+                    [link_rewrite] => glasflaske-m-låg-ib-laursen-
+                    [category] => lysestager-fyrfadsstager
+                    [unique_id] => 0000008864000000000050012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 
+                    [ecotax_attr] => 
+                    [reference] => 1064-00
+                    [weight_attribute] => 
+                    [ean13] => 5709898254629
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 9.950000
+                    [id_image] => 8864-28194
+                    [legend] => Glasflaske m/ låg - Ib Laursen 
+                    [reduction_type] => amount
+                    [stock_quantity] => 11
+                    [price_without_reduction_tax_incl] => 75
+                    [price_without_reduction_tax_excl] => 60
+                    [price_with_reduction_tax_incl] => 30
+                    [price_with_reduction_tax_excl] => 24
+                    [price_with_only_reduction_tax_incl] => 45
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 45
+                    [price_with_only_reduction_tax_excl] => 36
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 36
+                    [price_without_customer_discount_tax_incl] => 75
+                    [price_without_customer_discount_tax_excl] => 60
+                    [total] => 24
+                    [total_wt] => 30
+                    [price_wt] => 30
+                    [reduction_applies] => 1
+                    [quantity_discount_applies] => 1
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+            [2] => Array
+                (
+                    [id_product_attribute] => 3593
+                    [id_product] => 8777
+                    [cart_quantity] => 1
+                    [id_shop] => 1
+                    [name] => Rustiklys støvet lys grøn (khaki) - Ib Laursen
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: B: 18 cm, D: 2,2 cm, Materiale: Paraffin<br /><br />Rustiklys støvet lys grøn fra Ib Laursen. Rustiklyset er lavet i den lækre rustikke kvalitet i en fin støvet lys grøn farve (khaki farve), lysets tykkelse er samme tykkelse som et amindeligt lys, så den passer til alle almindelige stager, miks de forskellige farver i stager. 1 stk. kr. 7,- eller 5 stk. 30,-</p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 26
+                    [id_supplier] => 1
+                    [id_manufacturer] => 3
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 5.6
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 29
+                    [width] => 18.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.06
+                    [date_add] => 2020-01-15 21:40:04
+                    [date_upd] => 2020-01-23 12:57:01
+                    [quantity] => 1
+                    [link_rewrite] => rustiklys-støvet-grøn-khaki-ib-laursen
+                    [category] => bedelys-bloklys-kertelys
+                    [unique_id] => 0000008777000000359350012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 5.600000
+                    [ecotax_attr] => 0.000000
+                    [reference] => 7218-46
+                    [weight_attribute] => 0.060000
+                    [ean13] => 0
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 2.500000
+                    [id_image] => 8777-27864
+                    [legend] => 
+                    [reduction_type] => 0
+                    [stock_quantity] => 29
+                    [price_without_reduction_tax_incl] => 7
+                    [price_without_reduction_tax_excl] => 5.6
+                    [price_with_reduction_tax_incl] => 7
+                    [price_with_reduction_tax_excl] => 5.6
+                    [price_with_only_reduction_tax_incl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 0
+                    [price_with_only_reduction_tax_excl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 0
+                    [price_without_customer_discount_tax_incl] => 7
+                    [price_without_customer_discount_tax_excl] => 5.6
+                    [total] => 5.6
+                    [total_wt] => 7
+                    [price_wt] => 7
+                    [reduction_applies] => 
+                    [quantity_discount_applies] => 
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [attributes] => Rustik lys : 1 stk. kr. 7,-
+                    [attributes_small] => 1 stk. kr. 7,-
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+            [3] => Array
+                (
+                    [id_product_attribute] => 0
+                    [id_product] => 4895
+                    [cart_quantity] => 1
+                    [id_shop] => 1
+                    [name] => Urtepotteskjuler Orange - Bloomingville
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: Ø: 9 x H: 9 cm</p><br /><p>Urtepotteskjuler orange/brændt terracotta farve fra Bloomingville. Urtepotteskjuleren er en utrolig fin og enkel lille skjuler lavet af stentøj med et enkelt mønster og i den flotte orange eller lidt brændte brun/orange farve. Brug den med en lille grøn plante og miks gerne med andre skjulere og vaser, passer godt i det lidt rustikke og retro stilen.</p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 27
+                    [id_supplier] => 0
+                    [id_manufacturer] => 4
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 19.2
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 10
+                    [width] => 0.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.000000
+                    [date_add] => 2018-01-24 14:45:25
+                    [date_upd] => 2020-01-31 09:25:46
+                    [quantity] => 1
+                    [link_rewrite] => urtepotteskjuler-orange-bloomingville
+                    [category] => vaser-skjulere
+                    [unique_id] => 0000004895000000000050012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 
+                    [ecotax_attr] => 
+                    [reference] => 75101642
+                    [weight_attribute] => 
+                    [ean13] => 5711173186426
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 17.480000
+                    [id_image] => 4895-15861
+                    [legend] => Urtepotteskjuler, Orange, Stentøj
+                    [reduction_type] => percentage
+                    [stock_quantity] => 10
+                    [price_without_reduction_tax_incl] => 48
+                    [price_without_reduction_tax_excl] => 38.4
+                    [price_with_reduction_tax_incl] => 24
+                    [price_with_reduction_tax_excl] => 19.2
+                    [price_with_only_reduction_tax_incl] => 24
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 24
+                    [price_with_only_reduction_tax_excl] => 19.2
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 19.2
+                    [price_without_customer_discount_tax_incl] => 48
+                    [price_without_customer_discount_tax_excl] => 38.4
+                    [total] => 19.2
+                    [total_wt] => 24
+                    [price_wt] => 24
+                    [reduction_applies] => 1
+                    [quantity_discount_applies] => 1
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+        )
+
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 130375
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDate
+            [date_upd] => isDate
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDate
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDate
+                        )
+
+                )
+
+            [classname] => PosCart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+
+*DEBUG* 	2020/03/17 - 14:00:11: Property PosOrder->total_paid is empty
+*DEBUG* 	2020/03/17 - 14:00:11: PosCart Object
+(
+    [id_shop_group] => 1
+    [id_shop] => 1
+    [id_address_delivery] => 50012
+    [id_address_invoice] => 50012
+    [id_currency] => 1
+    [id_customer] => 20789
+    [id_guest] => 0
+    [id_lang] => 2
+    [recyclable] => 0
+    [gift] => 0
+    [gift_message] => 
+    [mobile_theme] => 0
+    [date_add] => 2020-03-17 13:55:44
+    [secure_key] => a249a2ffe4dfcaf340bf51cabc2baa4f
+    [id_carrier] => 284
+    [date_upd] => 2020-03-17 13:56:44
+    [checkedTos] => 
+    [pictures] => 
+    [textFields] => 
+    [delivery_option] => a:1:{i:50012;s:4:"284,";}
+    [allow_seperated_package] => 0
+    [_products:protected] => Array
+        (
+            [0] => Array
+                (
+                    [id_product_attribute] => 0
+                    [id_product] => 8469
+                    [cart_quantity] => 2
+                    [id_shop] => 1
+                    [name] => Vase aflang m/ ansigt hvid - Bloomingville
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: Ø: 6 cm H: 14,5 cm Materiale: Stentøj, Keramik</p><br /><p>Hvid vase i aflang med ansigt fra Bloomingville. Vasen er aflang og ville være flot at mikse med andre vaser i forskellige former og mønstre. Vasen er glaseret og kan derfor variere i farven. </p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 27
+                    [id_supplier] => 0
+                    [id_manufacturer] => 4
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 55.2
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 10
+                    [width] => 0.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.000000
+                    [date_add] => 2020-01-03 15:38:32
+                    [date_upd] => 2020-01-30 23:05:53
+                    [quantity] => 2
+                    [link_rewrite] => vase-aflang-m-ansigt-hvid-bloomingville
+                    [category] => vaser-skjulere
+                    [unique_id] => 0000008469000000000050012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 
+                    [ecotax_attr] => 
+                    [reference] => 82047424
+                    [weight_attribute] => 
+                    [ean13] => 5711173238613
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 30.500000
+                    [id_image] => 8469-26974
+                    [legend] => Vase aflang m/ ansigt hvid - Bloomingville
+                    [reduction_type] => 0
+                    [stock_quantity] => 10
+                    [price_without_reduction_tax_incl] => 69
+                    [price_without_reduction_tax_excl] => 55.2
+                    [price_with_reduction_tax_incl] => 69
+                    [price_with_reduction_tax_excl] => 55.2
+                    [price_with_only_reduction_tax_incl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 0
+                    [price_with_only_reduction_tax_excl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 0
+                    [price_without_customer_discount_tax_incl] => 69
+                    [price_without_customer_discount_tax_excl] => 55.2
+                    [total] => 110.4
+                    [total_wt] => 138
+                    [price_wt] => 69
+                    [reduction_applies] => 
+                    [quantity_discount_applies] => 
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+            [1] => Array
+                (
+                    [id_product_attribute] => 0
+                    [id_product] => 8864
+                    [cart_quantity] => 1
+                    [id_shop] => 1
+                    [name] => Glasflaske m/ låg - Ib Laursen 
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: H: 19,5 cm  Ø: 6 cm </p><br /><p>Glasflaske med låg fra Ib Laursen. Glasflasken kan både bruges til bedelys og krone lys, men kan også bruges som en lille vase med en stilk i. Glasflasken har et råt look. </p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 31
+                    [id_supplier] => 0
+                    [id_manufacturer] => 3
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 24
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 11
+                    [width] => 0.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.000000
+                    [date_add] => 2020-02-19 11:13:37
+                    [date_upd] => 2020-03-17 10:21:08
+                    [quantity] => 1
+                    [link_rewrite] => glasflaske-m-låg-ib-laursen-
+                    [category] => lysestager-fyrfadsstager
+                    [unique_id] => 0000008864000000000050012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 
+                    [ecotax_attr] => 
+                    [reference] => 1064-00
+                    [weight_attribute] => 
+                    [ean13] => 5709898254629
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 9.950000
+                    [id_image] => 8864-28194
+                    [legend] => Glasflaske m/ låg - Ib Laursen 
+                    [reduction_type] => amount
+                    [stock_quantity] => 11
+                    [price_without_reduction_tax_incl] => 75
+                    [price_without_reduction_tax_excl] => 60
+                    [price_with_reduction_tax_incl] => 30
+                    [price_with_reduction_tax_excl] => 24
+                    [price_with_only_reduction_tax_incl] => 45
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 45
+                    [price_with_only_reduction_tax_excl] => 36
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 36
+                    [price_without_customer_discount_tax_incl] => 75
+                    [price_without_customer_discount_tax_excl] => 60
+                    [total] => 24
+                    [total_wt] => 30
+                    [price_wt] => 30
+                    [reduction_applies] => 1
+                    [quantity_discount_applies] => 1
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+            [2] => Array
+                (
+                    [id_product_attribute] => 3593
+                    [id_product] => 8777
+                    [cart_quantity] => 1
+                    [id_shop] => 1
+                    [name] => Rustiklys støvet lys grøn (khaki) - Ib Laursen
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: B: 18 cm, D: 2,2 cm, Materiale: Paraffin<br /><br />Rustiklys støvet lys grøn fra Ib Laursen. Rustiklyset er lavet i den lækre rustikke kvalitet i en fin støvet lys grøn farve (khaki farve), lysets tykkelse er samme tykkelse som et amindeligt lys, så den passer til alle almindelige stager, miks de forskellige farver i stager. 1 stk. kr. 7,- eller 5 stk. 30,-</p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 26
+                    [id_supplier] => 1
+                    [id_manufacturer] => 3
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 5.6
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 29
+                    [width] => 18.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.06
+                    [date_add] => 2020-01-15 21:40:04
+                    [date_upd] => 2020-01-23 12:57:01
+                    [quantity] => 1
+                    [link_rewrite] => rustiklys-støvet-grøn-khaki-ib-laursen
+                    [category] => bedelys-bloklys-kertelys
+                    [unique_id] => 0000008777000000359350012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 5.600000
+                    [ecotax_attr] => 0.000000
+                    [reference] => 7218-46
+                    [weight_attribute] => 0.060000
+                    [ean13] => 0
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 2.500000
+                    [id_image] => 8777-27864
+                    [legend] => 
+                    [reduction_type] => 0
+                    [stock_quantity] => 29
+                    [price_without_reduction_tax_incl] => 7
+                    [price_without_reduction_tax_excl] => 5.6
+                    [price_with_reduction_tax_incl] => 7
+                    [price_with_reduction_tax_excl] => 5.6
+                    [price_with_only_reduction_tax_incl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 0
+                    [price_with_only_reduction_tax_excl] => 0
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 0
+                    [price_without_customer_discount_tax_incl] => 7
+                    [price_without_customer_discount_tax_excl] => 5.6
+                    [total] => 5.6
+                    [total_wt] => 7
+                    [price_wt] => 7
+                    [reduction_applies] => 
+                    [quantity_discount_applies] => 
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [attributes] => Rustik lys : 1 stk. kr. 7,-
+                    [attributes_small] => 1 stk. kr. 7,-
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+            [3] => Array
+                (
+                    [id_product_attribute] => 0
+                    [id_product] => 4895
+                    [cart_quantity] => 1
+                    [id_shop] => 1
+                    [name] => Urtepotteskjuler Orange - Bloomingville
+                    [is_virtual] => 0
+                    [description_short] => <p>Mål: Ø: 9 x H: 9 cm</p><br /><p>Urtepotteskjuler orange/brændt terracotta farve fra Bloomingville. Urtepotteskjuleren er en utrolig fin og enkel lille skjuler lavet af stentøj med et enkelt mønster og i den flotte orange eller lidt brændte brun/orange farve. Brug den med en lille grøn plante og miks gerne med andre skjulere og vaser, passer godt i det lidt rustikke og retro stilen.</p>
+                    [available_now] => 
+                    [available_later] => 
+                    [id_category_default] => 27
+                    [id_supplier] => 0
+                    [id_manufacturer] => 4
+                    [on_sale] => 0
+                    [ecotax] => 0.000000
+                    [additional_shipping_cost] => 0.00
+                    [available_for_order] => 1
+                    [price] => 19.2
+                    [active] => 1
+                    [unity] => 
+                    [unit_price_ratio] => 0.000000
+                    [quantity_available] => 10
+                    [width] => 0.000000
+                    [height] => 0.000000
+                    [depth] => 0.000000
+                    [out_of_stock] => 2
+                    [weight] => 0.000000
+                    [date_add] => 2018-01-24 14:45:25
+                    [date_upd] => 2020-01-31 09:25:46
+                    [quantity] => 1
+                    [link_rewrite] => urtepotteskjuler-orange-bloomingville
+                    [category] => vaser-skjulere
+                    [unique_id] => 0000004895000000000050012
+                    [id_address_delivery] => 50012
+                    [advanced_stock_management] => 1
+                    [supplier_reference] => 
+                    [customization_quantity] => 
+                    [id_customization] => 
+                    [price_attribute] => 
+                    [ecotax_attr] => 
+                    [reference] => 75101642
+                    [weight_attribute] => 
+                    [ean13] => 5711173186426
+                    [upc] => 
+                    [minimal_quantity] => 1
+                    [wholesale_price] => 17.480000
+                    [id_image] => 4895-15861
+                    [legend] => Urtepotteskjuler, Orange, Stentøj
+                    [reduction_type] => percentage
+                    [stock_quantity] => 10
+                    [price_without_reduction_tax_incl] => 48
+                    [price_without_reduction_tax_excl] => 38.4
+                    [price_with_reduction_tax_incl] => 24
+                    [price_with_reduction_tax_excl] => 19.2
+                    [price_with_only_reduction_tax_incl] => 24
+                    [price_with_only_reduction_without_customer_discount_tax_incl] => 24
+                    [price_with_only_reduction_tax_excl] => 19.2
+                    [price_with_only_reduction_without_customer_discount_tax_excl] => 19.2
+                    [price_without_customer_discount_tax_incl] => 48
+                    [price_without_customer_discount_tax_excl] => 38.4
+                    [total] => 19.2
+                    [total_wt] => 24
+                    [price_wt] => 24
+                    [reduction_applies] => 1
+                    [quantity_discount_applies] => 1
+                    [allow_oosp] => 0
+                    [features] => Array
+                        (
+                        )
+
+                    [rate] => 25
+                    [tax_name] => moms DK 25%
+                )
+
+        )
+
+    [_taxCalculationMethod:protected] => 0
+    [webserviceParameters:protected] => Array
+        (
+            [fields] => Array
+                (
+                    [id_address_delivery] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [xlink_resource] => addresses
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [xlink_resource] => currencies
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [xlink_resource] => customers
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [xlink_resource] => guests
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [xlink_resource] => languages
+                        )
+
+                )
+
+            [associations] => Array
+                (
+                    [cart_rows] => Array
+                        (
+                            [resource] => cart_row
+                            [virtual_entity] => 1
+                            [fields] => Array
+                                (
+                                    [id_product] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => products
+                                        )
+
+                                    [id_product_attribute] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => combinations
+                                        )
+
+                                    [id_address_delivery] => Array
+                                        (
+                                            [required] => 1
+                                            [xlink_resource] => addresses
+                                        )
+
+                                    [quantity] => Array
+                                        (
+                                            [required] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 130375
+    [id_shop_list] => 
+    [get_shop_from_context:protected] => 1
+    [table:protected] => cart
+    [identifier:protected] => id_cart
+    [fieldsRequired:protected] => Array
+        (
+            [0] => id_currency
+            [1] => id_lang
+        )
+
+    [fieldsSize:protected] => Array
+        (
+            [secure_key] => 32
+        )
+
+    [fieldsValidate:protected] => Array
+        (
+            [id_shop_group] => isUnsignedId
+            [id_shop] => isUnsignedId
+            [id_address_delivery] => isUnsignedId
+            [id_address_invoice] => isUnsignedId
+            [id_carrier] => isUnsignedId
+            [id_currency] => isUnsignedId
+            [id_customer] => isUnsignedId
+            [id_guest] => isUnsignedId
+            [id_lang] => isUnsignedId
+            [recyclable] => isBool
+            [gift] => isBool
+            [gift_message] => isMessage
+            [mobile_theme] => isBool
+            [allow_seperated_package] => isBool
+            [date_add] => isDate
+            [date_upd] => isDate
+        )
+
+    [fieldsRequiredLang:protected] => Array
+        (
+        )
+
+    [fieldsSizeLang:protected] => Array
+        (
+        )
+
+    [fieldsValidateLang:protected] => Array
+        (
+        )
+
+    [tables:protected] => Array
+        (
+        )
+
+    [image_dir:protected] => 
+    [image_format:protected] => jpg
+    [def:protected] => Array
+        (
+            [table] => cart
+            [primary] => id_cart
+            [fields] => Array
+                (
+                    [id_shop_group] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_shop] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_delivery] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_address_invoice] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_carrier] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_currency] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [id_customer] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_guest] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                        )
+
+                    [id_lang] => Array
+                        (
+                            [type] => 1
+                            [validate] => isUnsignedId
+                            [required] => 1
+                        )
+
+                    [recyclable] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [gift_message] => Array
+                        (
+                            [type] => 3
+                            [validate] => isMessage
+                        )
+
+                    [mobile_theme] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [delivery_option] => Array
+                        (
+                            [type] => 3
+                        )
+
+                    [secure_key] => Array
+                        (
+                            [type] => 3
+                            [size] => 32
+                        )
+
+                    [allow_seperated_package] => Array
+                        (
+                            [type] => 2
+                            [validate] => isBool
+                        )
+
+                    [date_add] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDate
+                        )
+
+                    [date_upd] => Array
+                        (
+                            [type] => 5
+                            [validate] => isDate
+                        )
+
+                )
+
+            [classname] => PosCart
+        )
+
+    [update_fields:protected] => 
+    [force_id] => 
+)
+

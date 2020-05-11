@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ph_recentposts</name>
+	<displayName><![CDATA[SimpleBlog - Ostatnie wpisy]]></displayName>
+	<version><![CDATA[1.0.10]]></version>
+	<description><![CDATA[Widget do wyświetlania ostatnich wpis&oacute;w z modułu SimpleBlog]]></description>
+	<author><![CDATA[www.PrestaHome.com]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Na pewno usunąć?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

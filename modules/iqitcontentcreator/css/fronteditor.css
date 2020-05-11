@@ -1,0 +1,1107 @@
+/**
+* 2007-2014 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2014 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+
+
+.grid_creator{
+  margin: 0;
+}
+#iqitcontentcreator{
+
+  margin-top: 40px !important;
+}
+
+#module-iqitcontentcreator-Editor .columns-container{
+  overflow: hidden;
+}
+.modal-open{
+  overflow: auto !important;
+}
+#iqitcontentcreator .menu_row{
+background: none;
+padding: 0px;
+min-height: 80px;
+}
+#iqitcontentcreator .menu_row > .dragger-handle{
+  display: none;
+}
+.dragger-handle{
+  font-size: 8px !important;
+  width: 23px;
+  top: -20px;
+  padding: 4px 8px;
+  font-size: 0px !important;
+}
+.dragger-handle .icon-arrows {
+    font-size: 10px !important;
+        line-height: 13px;
+}
+.menu_column >.dragger-handle, .menu_column > .action-buttons-container, .width-selector-wrapper{
+  background: #B5860A !important;
+  color: #fff !important;
+  border: none !important;
+  z-index: 3;       
+}
+
+#module-iqitcontentcreator-Editor #iqitcontentcreator .tab-content .tab-pane{
+  margin-top: 0px;
+}
+
+#iqitcontentcreator .width-selector-wrapper select{
+  height: 17px;
+}
+#iqitcontentcreator .width-selector-wrapper{
+      height: 20px;
+    padding: 2px 4px;
+}
+#iqitcontentcreator .width-selector-wrapper i{
+  font-size: 14px;
+  width: 14px;
+}
+
+
+.dragger-handle, .action-buttons-container{
+  height: 20px !important;
+}
+.action-buttons-container .btn{
+  border: none !important;
+  padding: 0px 6px;
+  margin: 0px;
+  border-left: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border-radius: none !important;
+}
+.action-buttons-container .btn-danger{
+    padding: 0px 4px;
+    border-none: !important;
+}
+
+.action-buttons-container .btn i{
+  margin: 0px;
+  width: auto;
+}
+.action-buttons-container .btn-default{
+    color: inherit;
+}
+.action-buttons-container .btn-default:hover{
+background-color: rgba(255, 255, 255, 0.23) !important;
+}
+
+.menu_row >.dragger-handle, .menu_row > .action-buttons-container{
+    color: #ffffff !important;
+    background: #552A72 !important;
+    border: none !important;
+    z-index: 2;
+       
+}
+
+
+#iqitcontentcreator .menu_column > .action-buttons-container{
+    left: 23px;
+    top: -20px; 
+       right: auto;
+    display: none;
+      padding: 1px 3px;
+}
+#iqitcontentcreator .menu_row > .action-buttons-container{
+       left: 23px;
+       right: auto;
+       top: -20px; 
+    display: none;
+      padding: 1px 3px;
+}
+.menu_column .width-selector-wrapper{
+  right: 10px;
+  top: -20px;
+}
+#iqitcontentcreator  .modal .alert-info{
+      float: none !important;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+#iqitcontentcreator .menu_row .menu_column .menu_row .dragger-handle, #iqitcontentcreator .menu_row .menu_column .menu_row .action-buttons-container, #iqitcontentcreator .menu_row .menu_column .menu_row .menu_column .width-selector-wrapper{
+  top: 0px;
+}
+
+#iqitcontentcreator .menu_row .menu_column  .width-selector-wrapper{
+display: none;
+}
+#iqitcontentcreator .menu_row .menu_column:hover .width-selector-wrapper{
+display: block;
+  }
+
+#iqitcontentcreator .menu_row .menu_column .menu_row .menu_column .width-selector-wrapper{
+display: none;
+}
+#iqitcontentcreator .menu_row .menu_column .menu_row .menu_column:hover .width-selector-wrapper{
+display: block;
+  }
+
+.width-selector-wrapper:hover{
+  width: 95px;
+  height: auto !important;
+}
+
+#iqitcontentcreator .menu_row:hover{
+outline: 1px dotted #552A72;
+}
+#iqitcontentcreator .menu_row:hover > .action-buttons-container, #iqitcontentcreator .menu_row:hover > .dragger-handle{
+  display: block;
+}
+#buttons-sample .action-buttons-container{
+  height: auto !important;
+}
+.module-iqitcontentcreator-Editor  #iqitcontentcreator .empty-column:hover .iqitcontent-column-inner > .iqitcontent_row{
+  margin-top: 0px;
+}
+#iqitcontentcreator .menu_row .menu_column{
+background: none;
+min-height: 80px;
+padding-top: 0px;
+padding-bottom: 0px;
+border: none;
+}
+#iqitcontentcreator .menu_tabe > .dragger-handle{
+display: none !important;
+}
+#iqitcontentcreator .menu_tabe > .action-buttons-container{
+left: 0px;
+padding-left: 0px;
+}
+#iqitcontentcreator .menu_tabe:hover{
+  padding-top: 70px;
+}
+#iqitcontentcreator .menu_tabe > .menu-tab-content{
+  display: none;
+}
+
+#iqitcontentcreator .menu_tabe .menu-tab-content .tabinliner, #iqitcontentcreator .menu_tabe .menu-tab-content .translatable-field {
+  position: static;
+}
+.modal-body .form-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.modal-body .translatable-field .col-lg-2{
+float: left;
+}
+#iqitcontentcreator .dropdown-menu{
+    left: 100%;
+    top: 0px;
+}
+#iqitcontentcreator .menu_tabe:hover > .menu-tab-content{
+top: 26px;
+    left: 0px;
+    display: block;
+
+}
+#iqitcontentcreator .menu_row  .menu_column:hover{
+outline: 1px dotted #B5860A;
+}
+.column-content-info{
+  display: none !important;
+}
+#iqitcontentcreator .menu_column > .action-buttons-container, #iqitcontentcreator .menu_column > .menu-column-content > .edit-btn-wrapper, #iqitcontentcreator .menu_column > .dragger-handle{
+    display: none ;
+}
+#iqitcontentcreator .menu_column:hover > .action-buttons-container, #iqitcontentcreator .menu_column:hover > .menu-column-content > .edit-btn-wrapper, #iqitcontentcreator .menu_column:hover > .dragger-handle{
+    display: block ;
+}
+
+#module-iqitcontentcreator-Editor .breadcrumb{
+  display: none;
+}
+.header-container.sidebar-header{
+  z-index: 100 !important;
+}
+
+.edit-btn-wrapper >.btn {
+background: #fff !important;
+}
+.edit-btn-wrapper{
+      position: absolute;
+    z-index: 22;
+        padding: 0px;
+    margin: 0px;
+    top: 50%;
+    margin-top: -15px;
+    left: 0;
+    right: 0;
+}
+
+.modal-open {
+  overflow: hidden;
+}
+.modal {
+  display: none;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1050;
+  -webkit-overflow-scrolling: touch;
+  outline: 0;
+}
+.modal.fade .modal-dialog {
+  -webkit-transform: translate(0, -25%);
+  -ms-transform: translate(0, -25%);
+  -o-transform: translate(0, -25%);
+  transform: translate(0, -25%);
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+  -o-transition: -o-transform 0.3s ease-out;
+  transition: transform 0.3s ease-out;
+}
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+.modal-open .modal {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.modal-dialog {
+  position: relative;
+  width: auto;
+  margin: 10px;
+}
+.modal-content {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #999999;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  outline: 0;
+}
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1040;
+  background-color: #000000;
+}
+.modal-backdrop.fade {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.modal-backdrop.in {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.modal-header {
+  padding: 15px;
+  border-bottom: 1px solid #e5e5e5;
+  min-height: 16.42857143px;
+}
+.modal-header .close {
+  margin-top: -2px;
+}
+.modal-title {
+  margin: 0;
+  line-height: 1.42857143;
+}
+.modal-body {
+  position: relative;
+  padding: 15px;
+}
+.modal-footer {
+  padding: 15px;
+  clear: both;
+  text-align: right;
+  border-top: 1px solid #e5e5e5;
+}
+.modal-footer .btn + .btn {
+  margin-left: 5px;
+  margin-bottom: 0;
+}
+.modal-footer .btn-group .btn + .btn {
+  margin-left: -1px;
+}
+.modal-footer .btn-block + .btn-block {
+  margin-left: 0;
+}
+.modal-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll;
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 600px;
+    margin: 30px auto;
+  }
+  .modal-content {
+    -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  }
+  .modal-sm {
+    width: 300px;
+  }
+}
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 900px;
+  }
+}
+.clearfix:before,
+.clearfix:after,
+.modal-footer:before,
+.modal-footer:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after,
+.modal-footer:after {
+  clear: both;
+}
+
+#module-iqitcontentcreator-Editor #header{
+	z-index: 1000;
+}
+
+
+
+#iqitcontentcreator fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    min-width: 0
+}
+#iqitcontentcreator legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 17px;
+    font-size: 18px;
+    line-height: inherit;
+    color: #333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5
+}
+#iqitcontentcreator label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold
+}
+#iqitcontentcreator input[type="search"] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+#iqitcontentcreator input[type="radio"],
+#iqitcontentcreator input[type="checkbox"] {
+    margin: 4px 0 0;
+    margin-top: 1px \9;
+    line-height: normal
+}
+#iqitcontentcreator input[type="file"] {
+    display: block
+}
+#iqitcontentcreator input[type="range"] {
+    display: block;
+    width: 100%
+}
+#iqitcontentcreator select[multiple],
+#iqitcontentcreator select[size] {
+    height: auto
+}
+#iqitcontentcreator input[type="file"]:focus,
+#iqitcontentcreator input[type="radio"]:focus,
+#iqitcontentcreator input[type="checkbox"]:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px
+}
+#iqitcontentcreator output {
+    display: block;
+    padding-top: 5px;
+    font-size: 12px;
+    line-height: 1.42857;
+    color: #555
+}
+#iqitcontentcreator .form-control,
+#iqitcontentcreator input[type="text"],
+#iqitcontentcreator input[type="search"],
+#iqitcontentcreator input[type="password"],
+#iqitcontentcreator textarea,
+#iqitcontentcreator select {
+    display: block;
+    height: 27px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s
+}
+#iqitcontentcreator .form-control:focus,
+#iqitcontentcreator input[type="text"]:focus,
+#iqitcontentcreator input[type="search"]:focus,
+#iqitcontentcreator input[type="password"]:focus,
+#iqitcontentcreator textarea:focus,
+#iqitcontentcreator select:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6)
+}
+#iqitcontentcreator .form-control::-moz-placeholder,
+#iqitcontentcreator input[type="text"]::-moz-placeholder,
+#iqitcontentcreator input[type="search"]::-moz-placeholder,
+#iqitcontentcreator input[type="password"]::-moz-placeholder,
+#iqitcontentcreator textarea::-moz-placeholder,
+#iqitcontentcreator select::-moz-placeholder {
+    color: #999;
+    opacity: 1
+}
+#iqitcontentcreator .form-control:-ms-input-placeholder,
+#iqitcontentcreator input[type="text"]:-ms-input-placeholder,
+#iqitcontentcreator input[type="search"]:-ms-input-placeholder,
+#iqitcontentcreator input[type="password"]:-ms-input-placeholder,
+#iqitcontentcreator textarea:-ms-input-placeholder,
+#iqitcontentcreator select:-ms-input-placeholder {
+    color: #999
+}
+#iqitcontentcreator .form-control::-webkit-input-placeholder,
+#iqitcontentcreator input[type="text"]::-webkit-input-placeholder,
+#iqitcontentcreator input[type="search"]::-webkit-input-placeholder,
+#iqitcontentcreator input[type="password"]::-webkit-input-placeholder,
+#iqitcontentcreator textarea::-webkit-input-placeholder,
+#iqitcontentcreator select::-webkit-input-placeholder {
+    color: #999
+}
+#iqitcontentcreator .form-control[disabled],
+#iqitcontentcreator input[disabled][type="text"],
+#iqitcontentcreator input[disabled][type="search"],
+#iqitcontentcreator input[disabled][type="password"],
+#iqitcontentcreator textarea[disabled],
+#iqitcontentcreator select[disabled],
+#iqitcontentcreator .form-control[readonly],
+#iqitcontentcreator input[readonly][type="text"],
+#iqitcontentcreator input[readonly][type="search"],
+#iqitcontentcreator input[readonly][type="password"],
+#iqitcontentcreator textarea[readonly],
+#iqitcontentcreator select[readonly],
+fieldset[disabled] #iqitcontentcreator .form-control,
+fieldset[disabled] #iqitcontentcreator input[type="text"],
+fieldset[disabled] #iqitcontentcreator input[type="search"],
+fieldset[disabled] #iqitcontentcreator input[type="password"],
+fieldset[disabled] #iqitcontentcreator textarea,
+fieldset[disabled] #iqitcontentcreator select {
+    cursor: not-allowed;
+    background-color: #eee;
+    opacity: 1
+}
+#iqitcontentcreator textarea.form-control,
+#iqitcontentcreator textarea {
+    height: auto
+}
+#iqitcontentcreator input[type="search"] {
+    -webkit-appearance: none
+}
+#iqitcontentcreator input[type="date"],
+#iqitcontentcreator input[type="time"],
+#iqitcontentcreator input[type="datetime-local"],
+#iqitcontentcreator input[type="month"] {
+    line-height: 27px;
+    line-height: 1.42857 \0
+}
+#iqitcontentcreator input[type="date"].input-sm,
+#iqitcontentcreator .input-group-sm>input[type="date"].form-control,
+#iqitcontentcreator .input-group-sm>input[type="date"][type="text"],
+#iqitcontentcreator .input-group-sm>input[type="date"][type="search"],
+#iqitcontentcreator .input-group-sm>input[type="date"][type="password"],
+#iqitcontentcreator .input-group-sm>input[type="date"].input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>input[type="date"].btn,
+#iqitcontentcreator input[type="time"].input-sm,
+#iqitcontentcreator .input-group-sm>input[type="time"].form-control,
+#iqitcontentcreator .input-group-sm>input[type="time"][type="text"],
+#iqitcontentcreator .input-group-sm>input[type="time"][type="search"],
+#iqitcontentcreator .input-group-sm>input[type="time"][type="password"],
+#iqitcontentcreator .input-group-sm>input[type="time"].input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>input[type="time"].btn,
+#iqitcontentcreator input[type="datetime-local"].input-sm,
+#iqitcontentcreator .input-group-sm>input[type="datetime-local"].form-control,
+#iqitcontentcreator .input-group-sm>input[type="datetime-local"][type="text"],
+#iqitcontentcreator .input-group-sm>input[type="datetime-local"][type="search"],
+#iqitcontentcreator .input-group-sm>input[type="datetime-local"][type="password"],
+#iqitcontentcreator .input-group-sm>input[type="datetime-local"].input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>input[type="datetime-local"].btn,
+#iqitcontentcreator input[type="month"].input-sm,
+#iqitcontentcreator .input-group-sm>input[type="month"].form-control,
+#iqitcontentcreator .input-group-sm>input[type="month"][type="text"],
+#iqitcontentcreator .input-group-sm>input[type="month"][type="search"],
+#iqitcontentcreator .input-group-sm>input[type="month"][type="password"],
+#iqitcontentcreator .input-group-sm>input[type="month"].input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>input[type="month"].btn {
+    line-height: 28px
+}
+#iqitcontentcreator input[type="date"].input-lg,
+#iqitcontentcreator .input-group-lg>input[type="date"].form-control,
+#iqitcontentcreator .input-group-lg>input[type="date"][type="text"],
+#iqitcontentcreator .input-group-lg>input[type="date"][type="search"],
+#iqitcontentcreator .input-group-lg>input[type="date"][type="password"],
+#iqitcontentcreator .input-group-lg>input[type="date"].input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>input[type="date"].btn,
+#iqitcontentcreator input[type="time"].input-lg,
+#iqitcontentcreator .input-group-lg>input[type="time"].form-control,
+#iqitcontentcreator .input-group-lg>input[type="time"][type="text"],
+#iqitcontentcreator .input-group-lg>input[type="time"][type="search"],
+#iqitcontentcreator .input-group-lg>input[type="time"][type="password"],
+#iqitcontentcreator .input-group-lg>input[type="time"].input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>input[type="time"].btn,
+#iqitcontentcreator input[type="datetime-local"].input-lg,
+#iqitcontentcreator .input-group-lg>input[type="datetime-local"].form-control,
+#iqitcontentcreator .input-group-lg>input[type="datetime-local"][type="text"],
+#iqitcontentcreator .input-group-lg>input[type="datetime-local"][type="search"],
+#iqitcontentcreator .input-group-lg>input[type="datetime-local"][type="password"],
+#iqitcontentcreator .input-group-lg>input[type="datetime-local"].input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>input[type="datetime-local"].btn,
+#iqitcontentcreator input[type="month"].input-lg,
+#iqitcontentcreator .input-group-lg>input[type="month"].form-control,
+#iqitcontentcreator .input-group-lg>input[type="month"][type="text"],
+#iqitcontentcreator .input-group-lg>input[type="month"][type="search"],
+#iqitcontentcreator .input-group-lg>input[type="month"][type="password"],
+#iqitcontentcreator .input-group-lg>input[type="month"].input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>input[type="month"].btn {
+    line-height: 42px
+}
+#iqitcontentcreator .form-group {
+    margin-bottom: 10px;
+    font-size: 12px !important;
+}
+#iqitcontentcreator .i-upload-input{
+  display: inline-block !important;
+}
+#iqitcontentcreator .modal .col-lg-9{
+padding-left: 0px;
+}
+#iqitcontentcreator .sp-replacer{
+  margin-left: 10px;
+}
+#iqitcontentcreator .help-block {
+font-style: italic;
+font-size: 10px;
+}
+#iqitcontentcreator .sp-preview{
+  width: 50px;
+}
+#iqitcontentcreator .checker{
+  display: inline-block;
+}
+#iqitcontentcreator  .translatable-field .caret{
+  display: none;
+}
+#iqitcontentcreator .translatable-field .col-lg-7{
+  padding-left: 0px;
+}
+#iqitcontentcreator .translatable-field .col-lg-7 input{
+  width: 100%;
+}
+#iqitcontentcreator .style-wrapper .col-md-offset-3{float: none !important;} 
+
+#iqitcontentcreator .style-wrapper .col-lg-3 {
+  padding: 0px;
+}
+#iqitcontentcreator .style-wrapper .sp-replacer{
+  margin-left: 1px;
+}
+#iqitcontentcreator  .col-lg-9 select, #iqitcontentcreator  .col-xs-3 select, #iqitcontentcreator  .col-xs-6 select{
+ width: 100%; 
+}
+#iqitcontentcreator .column-content-modal .form-group .form-group{
+  margin-bottom: 0px !important;
+}
+#iqitcontentcreator .style-wrapper div.col-lg-3{
+  width: 15%;
+}
+#iqitcontentcreator .modal .col-lg-3{
+  width: 25%;
+  float: left;
+}
+#iqitcontentcreator .modal .col-lg-6{
+  width: 50%; float: left;
+}
+#iqitcontentcreator .modal .col-lg-9{
+  width: 75%;  float: left;
+}
+#iqitcontentcreator .modal .col-lg-7{width: 58.33333%; float: left;}
+#iqitcontentcreator .radio,
+#iqitcontentcreator .checkbox {
+    display: block;
+    min-height: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+#iqitcontentcreator .radio label,
+#iqitcontentcreator .checkbox label {
+    padding-left: 20px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer
+}
+#iqitcontentcreator .radio input[type="radio"],
+#iqitcontentcreator .radio-inline input[type="radio"],
+#iqitcontentcreator .checkbox input[type="checkbox"],
+#iqitcontentcreator .checkbox-inline input[type="checkbox"] {
+    float: left;
+    margin-left: -20px
+}
+#iqitcontentcreator .radio+.radio,
+#iqitcontentcreator .checkbox+.checkbox {
+    margin-top: -5px
+}
+#iqitcontentcreator .radio-inline,
+#iqitcontentcreator .checkbox-inline {
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 0;
+    vertical-align: middle;
+    font-weight: normal;
+    cursor: pointer
+}
+#iqitcontentcreator .radio-inline+.radio-inline,
+#iqitcontentcreator .checkbox-inline+.checkbox-inline {
+    margin-top: 0;
+    margin-left: 10px
+}
+#iqitcontentcreator input[type="radio"][disabled],
+fieldset[disabled] #iqitcontentcreator input[type="radio"],
+#iqitcontentcreator input[type="checkbox"][disabled],
+fieldset[disabled] #iqitcontentcreator input[type="checkbox"],
+#iqitcontentcreator .radio[disabled],
+fieldset[disabled] #iqitcontentcreator .radio,
+#iqitcontentcreator .radio-inline[disabled],
+fieldset[disabled] #iqitcontentcreator .radio-inline,
+#iqitcontentcreator .checkbox[disabled],
+fieldset[disabled] #iqitcontentcreator .checkbox,
+#iqitcontentcreator .checkbox-inline[disabled],
+fieldset[disabled] #iqitcontentcreator .checkbox-inline {
+    cursor: not-allowed
+}
+#iqitcontentcreator .input-sm,
+#iqitcontentcreator .input-group-sm>.form-control,
+#iqitcontentcreator .input-group-sm>input[type="text"],
+#iqitcontentcreator .input-group-sm>input[type="search"],
+#iqitcontentcreator .input-group-sm>input[type="password"],
+#iqitcontentcreator .input-group-sm>textarea,
+#iqitcontentcreator .input-group-sm>select,
+#iqitcontentcreator .input-group-sm>.input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>.btn {
+    height: 28px;
+    padding: 5px 10px;
+    font-size: 11px;
+    line-height: 1.5;
+    border-radius: 3px
+}
+#iqitcontentcreator select.input-sm,
+#iqitcontentcreator .input-group-sm>select.form-control,
+#iqitcontentcreator .input-group-sm>select,
+#iqitcontentcreator .input-group-sm>select.input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>select.btn {
+    height: 28px;
+    line-height: 28px
+}
+#iqitcontentcreator textarea.input-sm,
+#iqitcontentcreator .input-group-sm>textarea.form-control,
+#iqitcontentcreator .input-group-sm>textarea,
+#iqitcontentcreator .input-group-sm>textarea.input-group-addon,
+#iqitcontentcreator .input-group-sm>.input-group-btn>textarea.btn,
+#iqitcontentcreator select[multiple].input-sm,
+#iqitcontentcreator .input-group-sm>select[multiple],
+#iqitcontentcreator .input-group-sm>.input-group-btn>select[multiple].btn {
+    height: auto
+}
+#iqitcontentcreator .input-lg,
+#iqitcontentcreator .input-group-lg>.form-control,
+#iqitcontentcreator .input-group-lg>input[type="text"],
+#iqitcontentcreator .input-group-lg>input[type="search"],
+#iqitcontentcreator .input-group-lg>input[type="password"],
+#iqitcontentcreator .input-group-lg>textarea,
+#iqitcontentcreator .input-group-lg>select,
+#iqitcontentcreator .input-group-lg>.input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>.btn {
+    height: 42px;
+    padding: 10px 16px;
+    font-size: 15px;
+    line-height: 1.33;
+    border-radius: 6px
+}
+#iqitcontentcreator select.input-lg,
+#iqitcontentcreator .input-group-lg>select.form-control,
+#iqitcontentcreator .input-group-lg>select,
+#iqitcontentcreator .input-group-lg>select.input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>select.btn {
+    height: 42px;
+    line-height: 42px
+}
+#iqitcontentcreator textarea.input-lg,
+#iqitcontentcreator .input-group-lg>textarea.form-control,
+#iqitcontentcreator .input-group-lg>textarea,
+#iqitcontentcreator .input-group-lg>textarea.input-group-addon,
+#iqitcontentcreator .input-group-lg>.input-group-btn>textarea.btn,
+#iqitcontentcreator select[multiple].input-lg,
+#iqitcontentcreator .input-group-lg>select[multiple],
+#iqitcontentcreator .input-group-lg>.input-group-btn>select[multiple].btn {
+    height: auto
+}
+#iqitcontentcreator .has-feedback {
+    position: relative
+}
+#iqitcontentcreator .has-feedback .form-control,
+#iqitcontentcreator .has-feedback input[type="text"],
+#iqitcontentcreator .has-feedback input[type="search"],
+#iqitcontentcreator .has-feedback input[type="password"],
+#iqitcontentcreator .has-feedback textarea,
+#iqitcontentcreator .has-feedback select {
+    padding-right: 33.75px
+}
+#iqitcontentcreator .form-control-feedback {
+    position: absolute;
+    top: 22px;
+    right: 0;
+    z-index: 2;
+    display: block;
+    width: 27px;
+    height: 27px;
+    line-height: 27px;
+    text-align: center
+}
+#iqitcontentcreator .input-lg+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>.form-control+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>input[type="text"]+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>input[type="search"]+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>input[type="password"]+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>textarea+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>select+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>.input-group-addon+.form-control-feedback,
+#iqitcontentcreator .input-group-lg>.input-group-btn>.btn+.form-control-feedback {
+    width: 42px;
+    height: 42px;
+    line-height: 42px
+}
+#iqitcontentcreator .input-sm+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>.form-control+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>input[type="text"]+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>input[type="search"]+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>input[type="password"]+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>textarea+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>select+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>.input-group-addon+.form-control-feedback,
+#iqitcontentcreator .input-group-sm>.input-group-btn>.btn+.form-control-feedback {
+    width: 28px;
+    height: 28px;
+    line-height: 28px
+}
+#iqitcontentcreator .has-success .help-block,
+#iqitcontentcreator .has-success .control-label,
+#iqitcontentcreator .has-success .radio,
+#iqitcontentcreator .has-success .checkbox,
+#iqitcontentcreator .has-success .radio-inline,
+#iqitcontentcreator .has-success .checkbox-inline {
+    color: #3c763d
+}
+#iqitcontentcreator .has-success .form-control,
+#iqitcontentcreator .has-success input[type="text"],
+#iqitcontentcreator .has-success input[type="search"],
+#iqitcontentcreator .has-success input[type="password"],
+#iqitcontentcreator .has-success textarea,
+#iqitcontentcreator .has-success select {
+    border-color: #3c763d;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+}
+#iqitcontentcreator .has-success .form-control:focus,
+#iqitcontentcreator .has-success input[type="text"]:focus,
+#iqitcontentcreator .has-success input[type="search"]:focus,
+#iqitcontentcreator .has-success input[type="password"]:focus,
+#iqitcontentcreator .has-success textarea:focus,
+#iqitcontentcreator .has-success select:focus {
+    border-color: #2b542c;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #67b168
+}
+#iqitcontentcreator .has-success .input-group-addon {
+    color: #3c763d;
+    border-color: #3c763d;
+    background-color: #dff0d8
+}
+#iqitcontentcreator .has-success .form-control-feedback {
+    color: #3c763d
+}
+#iqitcontentcreator .has-warning .help-block,
+#iqitcontentcreator .has-warning .control-label,
+#iqitcontentcreator .has-warning .radio,
+#iqitcontentcreator .has-warning .checkbox,
+#iqitcontentcreator .has-warning .radio-inline,
+#iqitcontentcreator .has-warning .checkbox-inline {
+    color: #8a6d3b
+}
+#iqitcontentcreator .has-warning .form-control,
+#iqitcontentcreator .has-warning input[type="text"],
+#iqitcontentcreator .has-warning input[type="search"],
+#iqitcontentcreator .has-warning input[type="password"],
+#iqitcontentcreator .has-warning textarea,
+#iqitcontentcreator .has-warning select {
+    border-color: #8a6d3b;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+}
+#iqitcontentcreator .has-warning .form-control:focus,
+#iqitcontentcreator .has-warning input[type="text"]:focus,
+#iqitcontentcreator .has-warning input[type="search"]:focus,
+#iqitcontentcreator .has-warning input[type="password"]:focus,
+#iqitcontentcreator .has-warning textarea:focus,
+#iqitcontentcreator .has-warning select:focus {
+    border-color: #66512c;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #c0a16b
+}
+#iqitcontentcreator .has-warning .input-group-addon {
+    color: #8a6d3b;
+    border-color: #8a6d3b;
+    background-color: #fcf8e3
+}
+#iqitcontentcreator .has-warning .form-control-feedback {
+    color: #8a6d3b
+}
+#iqitcontentcreator .has-error .help-block,
+#iqitcontentcreator .has-error .control-label,
+#iqitcontentcreator .has-error .radio,
+#iqitcontentcreator .has-error .checkbox,
+#iqitcontentcreator .has-error .radio-inline,
+#iqitcontentcreator .has-error .checkbox-inline {
+    color: #a94442
+}
+#iqitcontentcreator .has-error .form-control,
+#iqitcontentcreator .has-error input[type="text"],
+#iqitcontentcreator .has-error input[type="search"],
+#iqitcontentcreator .has-error input[type="password"],
+#iqitcontentcreator .has-error textarea,
+#iqitcontentcreator .has-error select {
+    border-color: #a94442;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+}
+#iqitcontentcreator .has-error .form-control:focus,
+#iqitcontentcreator .has-error input[type="text"]:focus,
+#iqitcontentcreator .has-error input[type="search"]:focus,
+#iqitcontentcreator .has-error input[type="password"]:focus,
+#iqitcontentcreator .has-error textarea:focus,
+#iqitcontentcreator .has-error select:focus {
+    border-color: #843534;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ce8483
+}
+#iqitcontentcreator .has-error .input-group-addon {
+    color: #a94442;
+    border-color: #a94442;
+    background-color: #f2dede
+}
+#iqitcontentcreator .has-error .form-control-feedback {
+    color: #a94442
+}
+#iqitcontentcreator .form-control-static {
+    margin-bottom: 0
+}
+#iqitcontentcreator .help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #959595
+}
+@media (min-width: 768px) {
+    #iqitcontentcreator .form-inline .form-group,
+    #iqitcontentcreator .navbar-form .form-group {
+        display: inline-block;
+        margin-bottom: 0;
+        vertical-align: middle
+    }
+    #iqitcontentcreator .form-inline .form-control,
+    #iqitcontentcreator .navbar-form .form-control,
+    #iqitcontentcreator .form-inline input[type="text"],
+    #iqitcontentcreator .navbar-form input[type="text"],
+    #iqitcontentcreator .form-inline input[type="search"],
+    #iqitcontentcreator .navbar-form input[type="search"],
+    #iqitcontentcreator .form-inline input[type="password"],
+    #iqitcontentcreator .navbar-form input[type="password"],
+    #iqitcontentcreator .form-inline textarea,
+    #iqitcontentcreator .navbar-form textarea,
+    #iqitcontentcreator .form-inline select,
+    #iqitcontentcreator .navbar-form select {
+        display: inline-block;
+        width: auto;
+        vertical-align: middle
+    }
+    #iqitcontentcreator .form-inline .input-group,
+    #iqitcontentcreator .navbar-form .input-group {
+        display: inline-table;
+        vertical-align: middle
+    }
+    #iqitcontentcreator .form-inline .input-group .input-group-addon,
+    #iqitcontentcreator .navbar-form .input-group .input-group-addon,
+    #iqitcontentcreator .form-inline .input-group .input-group-btn,
+    #iqitcontentcreator .navbar-form .input-group .input-group-btn,
+    #iqitcontentcreator .form-inline .input-group .form-control,
+    #iqitcontentcreator .navbar-form .input-group .form-control,
+    #iqitcontentcreator .form-inline .input-group input[type="text"],
+    #iqitcontentcreator .navbar-form .input-group input[type="text"],
+    #iqitcontentcreator .form-inline .input-group input[type="search"],
+    #iqitcontentcreator .navbar-form .input-group input[type="search"],
+    #iqitcontentcreator .form-inline .input-group input[type="password"],
+    #iqitcontentcreator .navbar-form .input-group input[type="password"],
+    #iqitcontentcreator .form-inline .input-group textarea,
+    #iqitcontentcreator .navbar-form .input-group textarea,
+    #iqitcontentcreator .form-inline .input-group select,
+    #iqitcontentcreator .navbar-form .input-group select {
+        width: auto
+    }
+    #iqitcontentcreator .form-inline .input-group>.form-control,
+    #iqitcontentcreator .navbar-form .input-group>.form-control,
+    #iqitcontentcreator .form-inline .input-group>input[type="text"],
+    #iqitcontentcreator .navbar-form .input-group>input[type="text"],
+    #iqitcontentcreator .form-inline .input-group>input[type="search"],
+    #iqitcontentcreator .navbar-form .input-group>input[type="search"],
+    #iqitcontentcreator .form-inline .input-group>input[type="password"],
+    #iqitcontentcreator .navbar-form .input-group>input[type="password"],
+    #iqitcontentcreator .form-inline .input-group>textarea,
+    #iqitcontentcreator .navbar-form .input-group>textarea,
+    #iqitcontentcreator .form-inline .input-group>select,
+    #iqitcontentcreator .navbar-form .input-group>select {
+        width: 100%
+    }
+    #iqitcontentcreator .form-inline .control-label,
+    #iqitcontentcreator .navbar-form .control-label {
+        margin-bottom: 0;
+        vertical-align: middle
+    }
+    #iqitcontentcreator .form-inline .radio,
+    #iqitcontentcreator .navbar-form .radio,
+    #iqitcontentcreator .form-inline .checkbox,
+    #iqitcontentcreator .navbar-form .checkbox {
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
+        vertical-align: middle
+    }
+    #iqitcontentcreator .form-inline .radio input[type="radio"],
+    #iqitcontentcreator .navbar-form .radio input[type="radio"],
+    #iqitcontentcreator .form-inline .checkbox input[type="checkbox"],
+    #iqitcontentcreator .navbar-form .checkbox input[type="checkbox"] {
+        float: none;
+        margin-left: 0
+    }
+    #iqitcontentcreator .form-inline .has-feedback .form-control-feedback,
+    #iqitcontentcreator .navbar-form .has-feedback .form-control-feedback {
+        top: 0
+    }
+}
+#iqitcontentcreator .form-horizontal .radio,
+#iqitcontentcreator .form-horizontal .checkbox,
+#iqitcontentcreator .form-horizontal .radio-inline,
+#iqitcontentcreator .form-horizontal .checkbox-inline {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px
+}
+#iqitcontentcreator .form-horizontal .radio,
+#iqitcontentcreator .form-horizontal .checkbox {
+    min-height: 22px
+}
+#iqitcontentcreator .form-horizontal .form-group {
+    margin-left: -5px;
+    margin-right: -5px
+}
+#iqitcontentcreator .form-horizontal .form-group:before,
+#iqitcontentcreator .form-horizontal .form-group:after {
+    content: " ";
+    display: table
+}
+#iqitcontentcreator .form-horizontal .form-group:after {
+    clear: both
+}
+#iqitcontentcreator .form-horizontal .form-control-static {
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+@media (min-width: 768px) {
+    #iqitcontentcreator .form-horizontal .control-label {
+        text-align: right;
+        margin-bottom: 0;
+        padding-top: 5px
+    }
+}
+#iqitcontentcreator .form-horizontal .has-feedback .form-control-feedback {
+    top: 0;
+    right: 5px
+}
+
+
+#module-iqitcontentcreator-Editor.force-guides {
+
+}
+
+#module-iqitcontentcreator-Editor.force-guides .action-buttons-container,
+#module-iqitcontentcreator-Editor.force-guides .menu_column > .dragger-handle,
+#module-iqitcontentcreator-Editor.force-guides .menu_row  > .dragger-handle,
+#module-iqitcontentcreator-Editor.force-guides .menu_column .width-selector-wrapper {
+display: block !important;
+}
+#module-iqitcontentcreator-Editor.force-guides .menu_tabe > .dragger-handle {
+display: none !important;
+}
+
+#module-iqitcontentcreator-Editor.force-guides .menu_row .menu_column{
+  outline: 1px dotted #B5860A;
+}
+
+#module-iqitcontentcreator-Editor.force-guides .menu_row{
+   outline: 1px dotted #552A72;
+}

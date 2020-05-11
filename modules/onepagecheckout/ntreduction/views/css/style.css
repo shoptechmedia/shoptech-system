@@ -1,0 +1,174 @@
+#ntreduction .clear {
+    clear: both !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+    display: block !important;
+}
+
+#ntreduction .hide {
+    display: none;
+}
+
+#ntreduction input,
+#ntreduction select
+{
+    background-color: #fff;
+}
+
+#ntreduction .select2-container-multi .select2-choices
+{
+    border-color: #C7D6DB;
+}
+
+#ntreduction .process_icon {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    font-size: 28px;
+    background: transparent;
+    background-size: 26px;
+    background-position: center;
+}
+
+#ntreduction .panel-heading span {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#ntreduction .list-group-item
+{
+	cursor: pointer;
+}
+
+#ntreduction #loader_container
+{
+    display: none;
+}
+
+#ntreduction #loader_container,
+#ntreduction #loader_container #grey_background
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 10;
+}
+
+#ntreduction #loader_container #grey_background
+{
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+#ntreduction #loader_container #loader
+{
+    z-index: 11;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#ntreduction .error,
+#ntreduction .confirm
+{
+	display: none;
+}
+
+#ntreduction #nt_tab_content
+{
+	margin-top: 20px;
+}
+
+#ntreduction .tab
+{
+	display: none;
+}
+
+#ntreduction #nt_tab1_content
+{
+	display: block;
+}
+
+#ntreduction #currency,
+#ntreduction #priorities_list
+{
+    display: none;
+}
+
+#ntreduction #config .display_columns
+{
+	display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+#ntreduction #filter_columns
+{
+	display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
+
+#ntreduction .red,
+#ntreduction .red td
+{
+    color: #000000 !important;
+    background-color: #ff2b2b !important;
+}
+
+#ntreduction .red .p1,
+#ntreduction .red .p2
+{
+    color: #000000;
+    background-color: #ff2b2b;
+}
+
+#ntreduction .p2
+{
+    background-color: #383F50;
+    color: #C3C5C2;
+}
+
+#ntreduction .p1
+{
+    background-color: #2eacce;
+    color: #ffffff;
+}
+
+#ntreduction #products_list table input
+{
+    padding: 2px;
+    width: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+#ntreduction #products_list table td,
+#ntreduction #products_list table th
+{
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+    min-width: 90px;
+}
+
+#ntreduction #products_list table input.datepicker
+{
+	width: 125px;
+}
+
+#ntreduction #products_list table thead {
+	display:block;
+}
+
+#ntreduction #products_list table tbody {
+	display:block;
+	max-height:435px;
+	overflow-y:scroll;
+}
+
+#ntreduction #products_list table tbody::-webkit-scrollbar {
+    display: none;
+}

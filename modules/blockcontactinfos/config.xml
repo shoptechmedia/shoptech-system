@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[blockcontactinfos]]></name>
+  <displayName><![CDATA[Block Contact Infos]]></displayName>
+  <version><![CDATA[2.0.3]]></version>
+  <description><![CDATA[This module will allow you to display your e-store's contact information in a customizable block.]]></description>
+  <author><![CDATA[thirty bees]]></author>
+  <author_uri/>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>1</need_instance>
+  <limited_countries/>
+</module>

@@ -1,0 +1,42 @@
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+#productpageadverts{
+
+}
+
+
+#productpageadverts .slick-list{
+	padding: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#productpageadverts .slick-prev, #productpageadverts .slick-next{
+	opacity: 0;
+	visibility: hidden;
+}
+
+#productpageadverts:hover .slick-prev, #productpageadverts:hover .slick-next{
+	opacity: 0.8;
+	visibility: visible;
+}
+#productpageadverts:hover .slick-prev{
+	left: 20px;
+}
+#productpageadverts:hover .slick-next{
+	right: 20px;
+}
+#productpageadverts .slick-dots{
+	bottom: 5px;
+}

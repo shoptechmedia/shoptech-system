@@ -1,0 +1,74 @@
+.event-ticket{
+	border: 1px solid;
+	margin-bottom: 15px;
+}
+
+.event-tickets img{
+	max-width: 100%;
+}
+
+.ticket-details{
+	padding: 15px;
+}
+
+@media screen and (min-width: 768px){
+	.event-tickets img{
+		width: 200px;
+		display: inline-block;
+	}
+
+	.ticket-details{
+		width: calc(100% - 215px);
+		display: inline-block;
+		vertical-align: top;
+		padding: 5px;
+	}
+}
+
+.button-container{
+	position: relative;
+}
+
+.STMPopup {
+	position: absolute;
+	bottom: 39px;
+	left: 0;
+	background-color: #fff;
+	border: 1px solid;
+	box-shadow: 0 0 4px #777;
+	z-index: 6000;
+	padding: 15px;
+}
+
+.STMPopup label{
+	display: inline-block;
+	width: 100%;
+}
+
+.STMPopup .STMClose{
+	position: absolute;
+	top: -12px;
+	right: -12px;
+	background-color: red;
+	border-radius: 50%;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	padding-top: 5px;
+	color: #fff;
+}
+
+.EventsDescription{
+	max-height: 67px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+
+.EventsDescription.showAll{
+	max-height: unset;
+}
+
+.EventsDescription-more{
+	margin: 15px 0;
+	z-index: 2;
+}

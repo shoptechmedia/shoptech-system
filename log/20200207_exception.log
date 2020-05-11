@@ -1,0 +1,2 @@
+*ERROR* 	2020/02/07 - 09:10:59: syntax error, unexpected 'exit' (T_EXIT) at line 214 in file controllers/admin/AdminCustomersController.php
+*ERROR* 	2020/02/07 - 09:13:26: syntax error, unexpected 'else' (T_ELSE) at line 46 in file classes/Analytics.php

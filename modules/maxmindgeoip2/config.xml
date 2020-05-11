@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[maxmindgeoip2]]></name>
+  <displayName><![CDATA[MaxMind Geolocation]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[Geolocation services based on MaxMind GeoIP2 database]]></description>
+  <author><![CDATA[thirty bees]]></author>
+  <author_uri/>
+  <tab><![CDATA[administration]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>

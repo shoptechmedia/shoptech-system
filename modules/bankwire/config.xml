@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[bankwire]]></name>
+  <displayName><![CDATA[Bankwire Module]]></displayName>
+  <version><![CDATA[2.0.8]]></version>
+  <description><![CDATA[Accept payments for your products via bank wire transfer.]]></description>
+  <author><![CDATA[thirty bees]]></author>
+  <author_uri/>
+  <tab><![CDATA[payments_gateways]]></tab>
+  <confirmUninstall><![CDATA[Are you sure about removing these details?]]></confirmUninstall>
+  <is_configurable>1</is_configurable>
+  <need_instance>1</need_instance>
+  <limited_countries/>
+</module>

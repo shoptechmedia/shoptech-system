@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[stmclubgroup]]></name>
+  <displayName><![CDATA[Customer Club Groups]]></displayName>
+  <version>1</version>
+  <description><![CDATA[Assign Customers Groups to Categories]]></description>
+  <author><![CDATA[Prestaspeed.dk]]></author>
+  <author_uri/>
+  <tab><![CDATA[Customer Club Groups]]></tab>
+  <confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+  <is_configurable>0</is_configurable>
+  <need_instance>1</need_instance>
+  <limited_countries/>
+</module>

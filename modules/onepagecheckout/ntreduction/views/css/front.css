@@ -1,0 +1,14 @@
+.ntreduction_init_price .clear
+{
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
+.ntreduction_init_price.discount-product.discount-amount {
+    display: none!important;
+}
+
+.product-miniature:hover .ntreduction_init_price.discount-product.discount-amount {
+    display: block!important;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[canonicalheaders]]></name>
+  <displayName><![CDATA[Canonical Headers]]></displayName>
+  <version>1</version>
+  <description><![CDATA[Add canonical links]]></description>
+  <author><![CDATA[Prestaspeed.dk]]></author>
+  <author_uri/>
+  <tab><![CDATA[Canonical header]]></tab>
+  <confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+  <is_configurable>0</is_configurable>
+  <need_instance>1</need_instance>
+  <limited_countries/>
+</module>

@@ -1,0 +1,6 @@
+*ERROR* 	2020/01/14 - 10:19:38: Class 'AdminNewsletterController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2020/01/14 - 10:26:36: syntax error, unexpected 'return' (T_RETURN) at line 115 in file controllers/admin/AdminNewsletterController.php
+*ERROR* 	2020/01/14 - 10:26:45: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/_shipping.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/01/14 - 10:28:07: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/page.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/01/14 - 10:28:20: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/page.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/01/14 - 10:28:33: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template//controllers/newsletter/page.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php

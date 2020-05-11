@@ -1,0 +1,16 @@
+*ERROR* 	2020/02/06 - 07:33:49: syntax error, unexpected ''action'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' at line 310 in file controllers/admin/AdminProductsController.php
+*ERROR* 	2020/02/06 - 08:59:08: Table 'shoptech_demo.stm__product_attribute' doesn't exist at line 3505 in file controllers/admin/AdminProductsController.php
+*ERROR* 	2020/02/06 - 09:01:56: Too few arguments to function CombinationCore::getAttributes(), 0 passed in /home/shoptech/public_html/demo/controllers/admin/AdminProductsController.php on line 3507 and exactly 1 expected at line 512 in file classes/Combination.php
+*ERROR* 	2020/02/06 - 09:01:59: Too few arguments to function CombinationCore::getAttributes(), 0 passed in /home/shoptech/public_html/demo/controllers/admin/AdminProductsController.php on line 3507 and exactly 1 expected at line 512 in file classes/Combination.php
+*ERROR* 	2020/02/06 - 09:10:25: syntax error, unexpected '}' at line 3550 in file controllers/admin/AdminProductsController.php
+*ERROR* 	2020/02/06 - 09:10:27: syntax error, unexpected '}' at line 3550 in file controllers/admin/AdminProductsController.php
+*ERROR* 	2020/02/06 - 09:22:55: Class 'AdminProductsControllerCore' not found at line 1 in file classes/PrestaShopAutoload.php(242) : eval()'d code
+*ERROR* 	2020/02/06 - 10:06:11: Call to a member function getImage() on null in template file header.tpl
+*ERROR* 	2020/02/06 - 10:07:31: Call to a member function getImage() on null in template file header.tpl
+*ERROR* 	2020/02/06 - 10:07:39: Call to a member function getImage() on null in template file header.tpl
+*ERROR* 	2020/02/06 - 10:07:47: Call to a member function getImage() on null in template file header.tpl
+*ERROR* 	2020/02/06 - 10:08:08: Call to a member function getImage() on null in template file header.tpl
+*ERROR* 	2020/02/06 - 10:09:54: syntax error, unexpected 'if' (T_IF) at line 3917 in file classes/controller/AdminController.php
+*ERROR* 	2020/02/06 - 14:30:50: syntax error, unexpected '=', expecting ']' at line 445 in file controllers/admin/AdminCategoriesController.php
+*ERROR* 	2020/02/06 - 14:36:11: Class 'Analytics' not found at line 429 in file controllers/admin/AdminCategoriesController.php
+*ERROR* 	2020/02/06 - 15:07:50: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' at line 291 in file controllers/admin/AdminCategoriesController.php

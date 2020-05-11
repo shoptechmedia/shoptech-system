@@ -1,0 +1,2 @@
+http://prntscr.com/oj8r1s
+- Insert in the same line in modules/blockcart/ajax-cart.js

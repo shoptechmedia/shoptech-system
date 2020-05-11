@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#idTabs a").on("click",function(n){n.preventDefault(),$(this).tab("show")})});

@@ -1,0 +1,5 @@
+*ERROR* 	2020/01/28 - 08:05:46: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} GROUP BY id) as thread ON (thread.id = t.id)' at line 4 at line 115 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/01/28 - 08:05:49: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} GROUP BY id) as thread ON (thread.id = t.id)' at line 4 at line 115 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/01/28 - 08:15:14: Unknown column 'thread.id' in 'field list' at line 118 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/01/28 - 08:15:25: Unknown column 'thread.id' in 'field list' at line 118 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/01/28 - 08:15:30: Unknown column 'thread.id' in 'field list' at line 118 in file controllers/admin/AdminTicketingController.php

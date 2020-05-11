@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[customergroupregistration]]></name>
+  <displayName><![CDATA[Customer Group Registration]]></displayName>
+  <version><![CDATA[2.0.1]]></version>
+  <description><![CDATA[Allows for the customer to select a group during the registration process.]]></description>
+  <author><![CDATA[Bellini Services]]></author>
+  <author_uri/>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>

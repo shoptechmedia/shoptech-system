@@ -1,0 +1,14 @@
+#editLayeredCombination{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 40px;
+    display: none;
+}
+
+#editLayeredCombination a{
+    color: #fff;
+    padding: 10px 20px;
+    background-color: #000;
+    text-transform: uppercase;
+}

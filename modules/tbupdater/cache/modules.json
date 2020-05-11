@@ -1,0 +1,1173 @@
+{
+    "advancedeucompliance": {
+        "displayName": {
+            "en-us": "Advanced EU Compliance"
+        },
+        "description": {
+            "en-us": "This module helps European merchants comply with applicable e-commerce laws."
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/advancedeucompliance/master/logo.png",
+        "version": "3.1.3",
+        "binary": "https://github.com/thirtybees/advancedeucompliance/releases/download/3.1.3/advancedeucompliance-v3.1.3.zip"
+    },
+    "apcumanager": {
+        "displayName": {
+            "en-us": "thirty bees APCu Cache Manager"
+        },
+        "description": {
+            "en-us": "View and manage your APCu user directly from your backoffice"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/apcumanager/master/logo.png",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/apcumanager/releases/download/1.0.2/apcumanager-v1.0.2.zip"
+    },
+    "authorizeaim": {
+        "displayName": {
+            "en-us": "Authorize.net AIM (Advanced Integration Method)"
+        },
+        "description": {
+            "en-us": "Receive payments with Authorize.net"
+        },
+        "author": "thirty bees",
+        "tab": "payments_gateways",
+        "img": "https://raw.githubusercontent.com/thirtybees/authorizeaim/master/logo.png",
+        "version": "2.0.1",
+        "binary": "https://github.com/thirtybees/authorizeaim/releases/download/2.0.1/authorizeaim-v2.0.1.zip"
+    },
+    "bankwire": {
+        "displayName": {
+            "en-us": "Bankwire Module"
+        },
+        "description": {
+            "en-us": "Accept payments for your products via bank wire transfer."
+        },
+        "author": "thirty bees",
+        "tab": "payments_gateways",
+        "img": "https://raw.githubusercontent.com/thirtybees/bankwire/master/logo.png",
+        "version": "2.0.9",
+        "binary": "https://github.com/thirtybees/bankwire/releases/download/2.0.9/bankwire-v2.0.9.zip"
+    },
+    "blockbanner": {
+        "displayName": {
+            "en-us": "Block Banner"
+        },
+        "description": {
+            "en-us": "Displays a banner at the top of the shop."
+        },
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "img": "https://raw.githubusercontent.com/thirtybees/blockbanner/master/logo.png",
+        "version": "2.1.0",
+        "binary": "https://github.com/thirtybees/blockbanner/releases/download/2.1.0/blockbanner-v2.1.0.zip"
+    },
+    "blockbestsellers": {
+        "displayName": {
+            "en-us": "Block Best Sellers"
+        },
+        "description": {
+            "en-us": "Adds a block displaying your store's top-selling products."
+        },
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "img": "https://raw.githubusercontent.com/thirtybees/blockbestsellers/master/logo.png",
+        "version": "2.2.1",
+        "binary": "https://github.com/thirtybees/blockbestsellers/releases/download/2.2.1/blockbestsellers-v2.2.1.zip"
+    },
+    "blockcart": {
+        "displayName": {
+            "en-us": "Block Cart"
+        },
+        "description": {
+            "en-us": "Adds a block containing the customer's shopping cart."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcart/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.4",
+        "binary": "https://github.com/thirtybees/blockcart/releases/download/2.0.4/blockcart-v2.0.4.zip"
+    },
+    "blockcategories": {
+        "displayName": {
+            "en-us": "Block Categories"
+        },
+        "description": {
+            "en-us": "Adds a block featuring product categories."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcategories/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.0.3",
+        "binary": "https://github.com/thirtybees/blockcategories/releases/download/3.0.3/blockcategories-v3.0.3.zip"
+    },
+    "blockcms": {
+        "displayName": {
+            "en-us": "Block CMS"
+        },
+        "description": {
+            "en-us": "Adds a block with several CMS links."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcms/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.0.2",
+        "binary": "https://github.com/thirtybees/blockcms/releases/download/3.0.2/blockcms-v3.0.2.zip"
+    },
+    "blockcmsinfo": {
+        "displayName": {
+            "en-us": "Block CMS Info"
+        },
+        "description": {
+            "en-us": "Adds custom information blocks in your store."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcmsinfo/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.7",
+        "binary": "https://github.com/thirtybees/blockcmsinfo/releases/download/2.0.7/blockcmsinfo-v2.0.7.zip"
+    },
+    "blockcontact": {
+        "displayName": {
+            "en-us": "Block Contact"
+        },
+        "description": {
+            "en-us": "Allows you to add additional information about your store's customer service."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcontact/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blockcontact/releases/download/2.0.2/blockcontact-v2.0.2.zip"
+    },
+    "blockcontactinfos": {
+        "displayName": {
+            "en-us": "Block Contact Infos"
+        },
+        "description": {
+            "en-us": "This module will allow you to display your e-store's contact information in a customizable block."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcontactinfos/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.3",
+        "binary": "https://github.com/thirtybees/blockcontactinfos/releases/download/2.0.3/blockcontactinfos-v2.0.3.zip"
+    },
+    "blockcurrencies": {
+        "displayName": {
+            "en-us": "Block Currencies"
+        },
+        "description": {
+            "en-us": "Adds a block allowing customers to choose their preferred shopping currency."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcurrencies/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/blockcurrencies/releases/download/1.0.2/blockcurrencies-v1.0.2.zip"
+    },
+    "blockcustomerprivacy": {
+        "displayName": {
+            "en-us": "Block Customer Privacy"
+        },
+        "description": {
+            "en-us": "Adds a block displaying a message about a customer's privacy data."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockcustomerprivacy/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.0.2",
+        "binary": "https://github.com/thirtybees/blockcustomerprivacy/releases/download/3.0.2/blockcustomerprivacy-v3.0.2.zip"
+    },
+    "blockfacebook": {
+        "displayName": {
+            "en-us": "Block Facebook"
+        },
+        "description": {
+            "en-us": "Displays a block for subscribing to your Facebook Page."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockfacebook/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blockfacebook/releases/download/2.0.2/blockfacebook-v2.0.2.zip"
+    },
+    "blocklanguages": {
+        "displayName": {
+            "en-us": "Block Languages"
+        },
+        "description": {
+            "en-us": "Adds a block allowing customers to select a language for your store's content."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocklanguages/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blocklanguages/releases/download/2.0.2/blocklanguages-v2.0.2.zip"
+    },
+    "blocklayered": {
+        "displayName": {
+            "en-us": "Block Layered Navigation"
+        },
+        "description": {
+            "en-us": "Displays a block with layered navigation filters."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocklayered/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.1.0",
+        "binary": "https://github.com/thirtybees/blocklayered/releases/download/3.1.0/blocklayered-v3.1.0.zip"
+    },
+    "blocklink": {
+        "displayName": {
+            "en-us": "Block Links"
+        },
+        "description": {
+            "en-us": "Adds a block with additional links."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocklink/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blocklink/releases/download/2.0.2/blocklink-v2.0.2.zip"
+    },
+    "blockmanufacturer": {
+        "displayName": {
+            "en-us": "Block Manufacturers"
+        },
+        "description": {
+            "en-us": "Displays a block listing product manufacturers and/or brands."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockmanufacturer/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blockmanufacturer/releases/download/2.0.2/blockmanufacturer-v2.0.2.zip"
+    },
+    "blockmyaccount": {
+        "displayName": {
+            "en-us": "Block My Account"
+        },
+        "description": {
+            "en-us": "Displays a block with links relative to a user's account."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockmyaccount/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.1.1",
+        "binary": "https://github.com/thirtybees/blockmyaccount/releases/download/2.1.1/blockmyaccount-v2.1.1.zip"
+    },
+    "blockmyaccountfooter": {
+        "displayName": {
+            "en-us": "Block My Account Footer"
+        },
+        "description": {
+            "en-us": "Displays a block with links relative to user accounts."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockmyaccountfooter/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.1.1",
+        "binary": "https://github.com/thirtybees/blockmyaccountfooter/releases/download/2.1.1/blockmyaccountfooter-v2.1.1.zip"
+    },
+    "blocknewproducts": {
+        "displayName": {
+            "en-us": "Block New Products"
+        },
+        "description": {
+            "en-us": "Displays a block featuring your store's newest products."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocknewproducts/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.2.2",
+        "binary": "https://github.com/thirtybees/blocknewproducts/releases/download/2.2.2/blocknewproducts-v2.2.2.zip"
+    },
+    "blocknewsletter": {
+        "displayName": {
+            "en-us": "Block Newsletter"
+        },
+        "description": {
+            "en-us": "Adds a block for newsletter subscription."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocknewsletter/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.0.4",
+        "binary": "https://github.com/thirtybees/blocknewsletter/releases/download/3.0.4/blocknewsletter-v3.0.4.zip"
+    },
+    "blockpaymentlogo": {
+        "displayName": {
+            "en-us": "Block Payment Logos"
+        },
+        "description": {
+            "en-us": "Adds a block which displays all of your payment logos."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockpaymentlogo/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/blockpaymentlogo/releases/download/1.0.2/blockpaymentlogo-v1.0.2.zip"
+    },
+    "blockpermanentlinks": {
+        "displayName": {
+            "en-us": "Block Permanent Links"
+        },
+        "description": {
+            "en-us": "Adds a block which  displays permanent links such as sitemap, contact, etc."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockpermanentlinks/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.3",
+        "binary": "https://github.com/thirtybees/blockpermanentlinks/releases/download/1.0.3/blockpermanentlinks-v1.0.3.zip"
+    },
+    "blockreinsurance": {
+        "displayName": {
+            "en-us": "Block Customer Reassurance"
+        },
+        "description": {
+            "en-us": "Adds an information block aimed at offering helpful information to reassure customers that your store is trustworthy."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockreinsurance/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.0.3",
+        "binary": "https://github.com/thirtybees/blockreinsurance/releases/download/3.0.3/blockreinsurance-v3.0.3.zip"
+    },
+    "blockrss": {
+        "displayName": {
+            "en-us": "RSS feed block"
+        },
+        "description": {
+            "en-us": "Adds a block displaying a RSS feed"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockrss/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.1.1",
+        "binary": "https://github.com/thirtybees/blockrss/releases/download/2.1.1/blockrss-v2.1.1.zip"
+    },
+    "blocksearch": {
+        "displayName": {
+            "en-us": "Block Search"
+        },
+        "description": {
+            "en-us": "Adds a quick search field to your website."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocksearch/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blocksearch/releases/download/2.0.2/blocksearch-v2.0.2.zip"
+    },
+    "blocksharefb": {
+        "displayName": {
+            "en-us": "Block Facebook Share"
+        },
+        "description": {
+            "en-us": "Allows customers to share products or content on Facebook."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocksharefb/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blocksharefb/releases/download/2.0.2/blocksharefb-v2.0.2.zip"
+    },
+    "blocksocial": {
+        "displayName": {
+            "en-us": "Block Social Networking"
+        },
+        "description": {
+            "en-us": "Allows you to add information about your brand's social networking accounts."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocksocial/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.2.4",
+        "binary": "https://github.com/thirtybees/blocksocial/releases/download/2.2.4/blocksocial-v2.2.4.zip"
+    },
+    "blockspecials": {
+        "displayName": {
+            "en-us": "Block Specials"
+        },
+        "description": {
+            "en-us": "Adds a block displaying your current discounted products."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockspecials/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.1.2",
+        "binary": "https://github.com/thirtybees/blockspecials/releases/download/2.1.2/blockspecials-v2.1.2.zip"
+    },
+    "blockstore": {
+        "displayName": {
+            "en-us": "Block Store Locator"
+        },
+        "description": {
+            "en-us": "Displays an image link to thirty bees' store locator feature."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockstore/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.3",
+        "binary": "https://github.com/thirtybees/blockstore/releases/download/2.0.3/blockstore-v2.0.3.zip"
+    },
+    "blocksupplier": {
+        "displayName": {
+            "en-us": "Block Suppliers"
+        },
+        "description": {
+            "en-us": "Adds a block displaying your product suppliers."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocksupplier/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blocksupplier/releases/download/2.0.2/blocksupplier-v2.0.2.zip"
+    },
+    "blocktags": {
+        "displayName": {
+            "en-us": "Block Tags"
+        },
+        "description": {
+            "en-us": "Adds a block containing your product tags."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocktags/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/blocktags/releases/download/2.0.2/blocktags-v2.0.2.zip"
+    },
+    "blocktopmenu": {
+        "displayName": {
+            "en-us": "Block Top Menu"
+        },
+        "description": {
+            "en-us": "Adds a new horizontal menu to the top of your e-commerce website."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blocktopmenu/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "3.0.4",
+        "binary": "https://github.com/thirtybees/blocktopmenu/releases/download/3.0.4/blocktopmenu-v3.0.4.zip"
+    },
+    "blockuserinfo": {
+        "displayName": {
+            "en-us": "Block User Info"
+        },
+        "description": {
+            "en-us": "Adds a block that displays information about the customer."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockuserinfo/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/blockuserinfo/releases/download/1.0.2/blockuserinfo-v1.0.2.zip"
+    },
+    "blockwishlist": {
+        "displayName": {
+            "en-us": "Wishlist block"
+        },
+        "description": {
+            "en-us": "Adds a block containing the customer's wishlists."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockwishlist/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.1",
+        "binary": "https://github.com/thirtybees/blockwishlist/releases/download/2.0.1/blockwishlist-v2.0.1.zip"
+    },
+    "blockviewed": {
+        "displayName": {
+            "en-us": "Block Viewed Products"
+        },
+        "description": {
+            "en-us": "Adds a block displaying recently viewed products."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/blockviewed/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.1",
+        "binary": "https://github.com/thirtybees/blockviewed/releases/download/2.0.1/blockviewed-v2.0.1.zip"
+    },
+    "beesblog": {
+        "displayName": {
+            "en-us": "Bees Blog"
+        },
+        "description": {
+            "en-us": "thirty bees blog module"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/beesblog/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.2.0",
+        "binary": "https://github.com/thirtybees/beesblog/releases/download/1.2.0/beesblog-v1.2.0.zip"
+    },
+    "beesblogcategories": {
+        "displayName": {
+            "en-us": "Bees Blog Categories"
+        },
+        "description": {
+            "en-us": "blog categories widget for thirty bees blog module"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/beesblogcategories/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/beesblogcategories/releases/download/1.0.2/beesblogcategories-v1.0.2.zip"
+    },
+    "beesblogpopularposts": {
+        "displayName": {
+            "en-us": "Bees Blog Popular Posts"
+        },
+        "description": {
+            "en-us": "Popular posts widget for thirty bees blog module"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/beesblogpopularposts/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/beesblogpopularposts/releases/download/1.0.2/beesblogpopularposts-v1.0.2.zip"
+    },
+    "beesblogrecentposts": {
+        "displayName": {
+            "en-us": "Bees Blog Recent Posts"
+        },
+        "description": {
+            "en-us": "Recent posts widget for thirty bees blog module"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/beesblogrecentposts/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/beesblogrecentposts/releases/download/1.0.2/beesblogrecentposts-v1.0.2.zip"
+    },
+    "beesblogrelatedproducts": {
+        "displayName": {
+            "en-us": "Bees Blog Related Products"
+        },
+        "description": {
+            "en-us": "related products widget for thirty bees blog module"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/beesblogrelatedproducts/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/beesblogrelatedproducts/releases/download/1.0.2/beesblogrelatedproducts-v1.0.2.zip"
+    },
+    "cookiebot": {
+        "displayName": {
+            "en-us": "Cookiebot"
+        },
+        "description": {
+            "en-us": "Cookiebot helps make your use of cookies and online tracking GDPR and EPR compliant"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/cookiebot/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.0",
+        "binary": "https://github.com/thirtybees/cookiebot/releases/download/1.0.0/cookiebot-v1.0.0.zip"
+    },
+    "cronjobs": {
+        "displayName": {
+            "en-us": "Cron tasks manager"
+        },
+        "description": {
+            "en-us": "Manage all your automated web tasks from a single interface."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/cronjobs/master/logo.png",
+        "author": "thirty bees",
+        "tab": "administration",
+        "version": "2.2.1",
+        "binary": "https://github.com/thirtybees/cronjobs/releases/download/2.2.1/cronjobs-v2.2.1.zip"
+    },
+    "custompayments": {
+        "displayName": {
+            "en-us": "Custom payment methods"
+        },
+        "description": {
+            "en-us": "Add custom payment methods to your store."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/custompayments/master/logo.png",
+        "author": "thirty bees",
+        "tab": "payments_gateways",
+        "version": "1.2.5",
+        "binary": "https://github.com/thirtybees/custompayments/releases/download/1.2.5/custompayments-v1.2.5.zip"
+    },
+    "coreupdater": {
+        "displayName": {
+            "en-us": "Core Updater"
+        },
+        "description": {
+            "en-us": "This module brings the tools for keeping your shop installation up to date."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/coreupdater/master/logo.png",
+        "author": "thirty bees",
+        "tab": "administration",
+        "version": "1.3.1",
+        "binary": "https://github.com/thirtybees/coreupdater/releases/download/1.3.1/coreupdater-v1.3.1.zip"
+    },
+    "crossselling": {
+        "displayName": {
+            "en-us": "Block Cross Selling"
+        },
+        "description": {
+            "en-us": "Adds a \"Customers who bought this product also bought...\" section to every product page."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/crossselling/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.4",
+        "binary": "https://github.com/thirtybees/crossselling/releases/download/2.0.4/crossselling-v2.0.4.zip"
+    },
+    "ctconfiguration": {
+        "displayName": {
+            "en-us": "Community Theme Configuration"
+        },
+        "description": {
+            "en-us": "Configuration for community theme blocks and content."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/ctconfiguration/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.5",
+        "binary": "https://github.com/thirtybees/ctconfiguration/releases/download/1.0.5/ctconfiguration-v1.0.5.zip"
+    },
+    "crowdin": {
+        "displayName": {
+            "en-us": "Crowdin in-context"
+        },
+        "description": {
+            "en-us": "Crowdin in-context translations"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/crowdin/master/logo.png",
+        "version": "1.0.0",
+        "binary": "https://github.com/thirtybees/crowdin/releases/download/1.0.0/crowdin-v1.0.0.zip"
+    },
+    "dashactivity": {
+        "displayName": {
+            "en-us": "Dashboard Activity"
+        },
+        "description": {
+            "en-us": "Show recent users and other statistics."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/dashactivity/master/logo.png",
+        "author": "thirty bees",
+        "tab": "dashboard",
+        "version": "1.2.3",
+        "binary": "https://github.com/thirtybees/dashactivity/releases/download/1.2.3/dashactivity-v1.2.3.zip"
+    },
+    "dashgoals": {
+        "displayName": {
+            "en-us": "Dashboard Goals"
+        },
+        "description": {
+            "en-us": "Adds a block with your store's forecast."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/dashgoals/master/logo.png",
+        "author": "thirty bees",
+        "tab": "dashboard",
+        "version": "2.0.7",
+        "binary": "https://github.com/thirtybees/dashgoals/releases/download/2.0.7/dashgoals-v2.0.7.zip"
+    },
+    "dashproducts": {
+        "displayName": {
+            "en-us": "Dashboard Products"
+        },
+        "description": {
+            "en-us": "Adds a block with a table of your latest orders and a ranking of your products"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/dashproducts/master/logo.png",
+        "author": "thirty bees",
+        "tab": "dashboard",
+        "version": "2.0.3",
+        "binary": "https://github.com/thirtybees/dashproducts/releases/download/2.0.3/dashproducts-v2.0.3.zip"
+    },
+    "dashtrends": {
+        "displayName": {
+            "en-us": "Dashboard Trends"
+        },
+        "description": {
+            "en-us": "Adds a block with a graphical representation of the development of your store(s) based on selected key data."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/dashtrends/master/logo.png",
+        "author": "thirty bees",
+        "tab": "dashboard",
+        "version": "2.0.5",
+        "binary": "https://github.com/thirtybees/dashtrends/releases/download/2.0.5/dashtrends-v2.0.5.zip"
+    },
+    "dateofdelivery": {
+        "displayName": {
+            "en-us": "Date of delivery"
+        },
+        "description": {
+            "en-us": "Displays an approximate date of delivery"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/dateofdelivery/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.0",
+        "binary": "https://github.com/thirtybees/dateofdelivery/releases/download/2.0.0/dateofdelivery-v2.0.0.zip"
+    },
+    "eucookieconsent": {
+        "displayName": {
+            "en-us": "EU Cookie Consent"
+        },
+        "description": {
+            "en-us": "Comply with the EU Cookie Law and alerts your users about the use of cookies on your store"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/eucookieconsent/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.2",
+        "binary": "https://github.com/thirtybees/eucookieconsent/releases/download/1.0.2/eucookieconsent-v1.0.2.zip"
+    },
+    "ecbexchange": {
+        "displayName": {
+            "en-us": "ECB Exchange Rate Services"
+        },
+        "description": {
+            "en-us": "Fetches currency exchange rates from the European Central Bank."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/ecbexchange/master/logo.png",
+        "author": "thirty bees",
+        "tab": "administration",
+        "version": "1.0.3",
+        "binary": "https://github.com/thirtybees/ecbexchange/releases/download/1.0.3/ecbexchange-v1.0.3.zip"
+    },
+    "ganalytics": {
+        "displayName": {
+            "en-us": "Google Analytics"
+        },
+        "description": {
+            "en-us": "Gain clear insights into important metrics about your customers, using Google Analytics"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/ganalytics/master/logo.png",
+        "author": "thirty bees",
+        "tab": "analytics_stats",
+        "version": "3.3.6",
+        "binary": "https://github.com/thirtybees/ganalytics/releases/download/3.3.6/ganalytics-v3.3.6.zip"
+    },
+    "gapi": {
+        "displayName": {
+            "en-us": "Google Analytics API"
+        },
+        "description": {
+            "en-us": "Connect to Google Analytics' API to retrieve your data and display it on your dashboard."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/gapi/master/logo.png",
+        "author": "thirty bees",
+        "tab": "analytics_stats",
+        "version": "3.0.1",
+        "binary": "https://github.com/thirtybees/gapi/releases/download/3.0.1/gapi-v3.0.1.zip"
+    },
+    "homefeatured": {
+        "displayName": {
+            "en-us": "Block Featured Products"
+        },
+        "description": {
+            "en-us": "Displays featured products in the central column of your homepage."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/homefeatured/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.2.0",
+        "binary": "https://github.com/thirtybees/homefeatured/releases/download/2.2.0/homefeatured-v2.2.0.zip"
+    },
+    "homeslider": {
+        "displayName": {
+            "en-us": "Block Image Slider"
+        },
+        "description": {
+            "en-us": "Adds an image slider to your homepage."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/homeslider/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.5",
+        "binary": "https://github.com/thirtybees/homeslider/releases/download/2.0.5/homeslider-v2.0.5.zip"
+    },
+    "mailalerts": {
+        "displayName": {
+            "en-us": "Mail alerts"
+        },
+        "description": {
+            "en-us": "Sends e-mail notifications to customers and merchants."
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/mailalerts/master/logo.png",
+        "version": "4.0.5",
+        "binary": "https://github.com/thirtybees/mailalerts/releases/download/4.0.5/mailalerts-v4.0.5.zip"
+    },
+    "mailchimp": {
+        "displayName": {
+            "en-us": "Mailchimp"
+        },
+        "description": {
+            "en-us": "Synchronize with MailChimp"
+        },
+        "author": "thirty bees",
+        "tab": "advertising_marketing",
+        "img": "https://raw.githubusercontent.com/thirtybees/mailchimp/master/logo.png",
+        "version": "1.5.0",
+        "binary": "https://github.com/thirtybees/mailchimp/releases/download/1.5.0/mailchimp-v1.5.0.zip"
+    },
+    "mdimagemagick": {
+        "displayName": {
+            "en-us": "ImageMagick"
+        },
+        "description": {
+            "en-us": "Add ImageMagick support to thirty bees"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/mdimagemagick/master/logo.png",
+        "version": "1.3.1",
+        "binary": "https://github.com/thirtybees/mdimagemagick/releases/download/1.3.1/mdimagemagick-v1.3.1.zip"
+    },
+    "nocaptcharecaptcha": {
+        "displayName": {
+            "en-us": "No CAPTCHA reCAPTCHA"
+        },
+        "description": {
+            "en-us": "Protects your store from spambots and brute force attacks with the new reCAPTCHA by Google",
+            "nl-nl": "Deze module beschermt uw winkel tegen spambots en brute force attacks dankzij de nieuwe reCAPTCHA van Google"
+        },
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "img": "https://raw.githubusercontent.com/thirtybees/nocaptcharecaptcha/master/logo.png",
+        "version": "1.1.2",
+        "binary": "https://github.com/thirtybees/nocaptcharecaptcha/releases/download/1.1.2/nocaptcharecaptcha-v1.1.2.zip"
+    },
+    "loyalty": {
+        "displayName": {
+            "en-us": "Customer loyalty and rewards"
+        },
+        "description": {
+            "en-us": "Provide a loyalty program to your customers."
+        },
+        "author": "thirty bees",
+        "tab": "pricing_promotion",
+        "img": "https://raw.githubusercontent.com/thirtybees/loyalty/master/logo.png",
+        "version": "3.0.2",
+        "binary": "https://github.com/thirtybees/loyalty/releases/download/3.0.2/loyalty-v3.0.2.zip"
+    },
+    "opcachemanager": {
+        "displayName": {
+            "en-us": "thirty bees OPCache Manager"
+        },
+        "description": {
+            "en-us": "View and manage your Opcache directly from your back office"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/opcachemanager/master/logo.png",
+        "version": "1.0.3",
+        "binary": "https://github.com/thirtybees/opcachemanager/releases/download/1.0.3/opcachemanager-v1.0.3.zip"
+    },
+    "overridecheck": {
+        "displayName": {
+            "en-us": "Override check"
+        },
+        "description": {
+            "en-us": "Check which overrides are in use"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/overridecheck/master/logo.png",
+        "version": "1.1.0",
+        "binary": "https://github.com/thirtybees/overridecheck/releases/download/1.1.0/overridecheck-v1.1.0.zip"
+    },
+    "piwikanalyticsjs": {
+        "displayName": {
+            "en-us": "Matomo Web Analytics"
+        },
+        "description": {
+            "en-us": "Matomo Web Analytics Javascript plugin"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/piwikanalyticsjs/master/logo.png",
+        "author": "thirty bees",
+        "tab": "analytics_stats",
+        "version": "1.2.1",
+        "binary": "https://github.com/thirtybees/piwikanalyticsjs/releases/download/1.2.1/piwikanalyticsjs-v1.2.1.zip"
+    },
+    "productcomments": {
+        "displayName": {
+            "en-us": "Product Comments"
+        },
+        "description": {
+            "en-us": "Allows users to post reviews and rate products on specific criteria."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/productcomments/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "4.0.3",
+        "binary": "https://github.com/thirtybees/productcomments/releases/download/4.0.3/productcomments-v4.0.3.zip"
+    },
+    "productpaymentlogos": {
+        "displayName": {
+            "en-us": "Block Product Payment Logos"
+        },
+        "description": {
+            "en-us": "Displays the logos of the available payment systems on the product page."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/productpaymentlogos/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/productpaymentlogos/releases/download/2.0.2/productpaymentlogos-v2.0.2.zip"
+    },
+    "productscategory": {
+        "displayName": {
+            "en-us": "Block Category Products"
+        },
+        "description": {
+            "en-us": "Adds a block on the product page that displays products from the same category."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/productscategory/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/productscategory/releases/download/2.0.2/productscategory-v2.0.2.zip"
+    },
+    "producttooltip": {
+        "displayName": {
+            "en-us": "Product Tooltips"
+        },
+        "description": {
+            "en-us": "Shows information on a product page: how many people are viewing it, the last time it was sold and the last time it was added to a cart."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/producttooltip/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/producttooltip/releases/download/2.0.2/producttooltip-v2.0.2.zip"
+    },
+    "referralprogram": {
+        "displayName": {
+            "en-us": "Customer referral program"
+        },
+        "description": {
+            "en-us": "Integrate a referral program system into your shop."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/referralprogram/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.4",
+        "binary": "https://github.com/thirtybees/referralprogram/releases/download/2.0.4/referralprogram-v2.0.4.zip"
+    },
+    "sendtoafriend": {
+        "displayName": {
+            "en-us": "Send to a Friend Module"
+        },
+        "description": {
+            "en-us": "Allows customers to send a product link to a friend."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/sendtoafriend/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.0.3",
+        "binary": "https://github.com/thirtybees/sendtoafriend/releases/download/2.0.3/sendtoafriend-v2.0.3.zip"
+    },
+    "sitemap": {
+        "displayName": {
+            "en-us": "Sitemap"
+        },
+        "description": {
+            "en-us": "Generate your sitemap file"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/sitemap/master/logo.png",
+        "author": "thirty bees",
+        "tab": "seo",
+        "version": "4.0.2",
+        "binary": "https://github.com/thirtybees/sitemap/releases/download/4.0.2/sitemap-v4.0.2.zip"
+    },
+    "socialsharing": {
+        "displayName": {
+            "en-us": "Block Social Sharing"
+        },
+        "description": {
+            "en-us": "Displays social sharing buttons (Twitter, Facebook, Google+ and Pinterest) on every product page."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/socialsharing/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "2.1.3",
+        "binary": "https://github.com/thirtybees/socialsharing/releases/download/2.1.3/socialsharing-v2.1.3.zip"
+    },
+    "statsdata": {
+        "displayName": {
+            "en-us": "Data Mining for Statistics"
+        },
+        "description": {
+            "en-us": "This module must be enabled if you want to use statistics."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/statsdata/master/logo.png",
+        "author": "thirty bees",
+        "tab": "analytics_stats",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/statsdata/releases/download/2.0.2/statsdata-v2.0.2.zip"
+    },
+    "statsmodule": {
+        "displayName": {
+            "en-us": "Statistics Module"
+        },
+        "description": {
+            "en-us": "Adds several statistics to the shop."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/statsmodule/master/logo.png",
+        "author": "thirty bees",
+        "tab": "analytics_stats",
+        "version": "2.1.1",
+        "binary": "https://github.com/thirtybees/statsmodule/releases/download/2.1.1/statsmodule-v2.1.1.zip"
+    },
+    "tbhtmlblock": {
+        "displayName": {
+            "en-us": "HTML Block"
+        },
+        "description": {
+            "en-us": "Add custom HTML or code anywhere in your theme."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/tbhtmlblock/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.0.0",
+        "binary": "https://github.com/thirtybees/tbhtmlblock/releases/download/1.0.0/tbhtmlblock-v1.0.0.zip"
+    },
+    "tawkto": {
+        "displayName": {
+            "en-us": "Tawk.to"
+        },
+        "description": {
+            "en-us": "Tawk.to live chat integration"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/tawkto/master/logo.png",
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "version": "1.1.1",
+        "binary": "https://github.com/thirtybees/tawkto/releases/download/1.1.1/tawkto-v1.1.1.zip"
+    },
+    "trackingfront": {
+        "displayName": {
+            "en-us": "Tracking - Front Office"
+        },
+        "description": {
+            "en-us": "Enables your affiliates to access their own statistics. See Stats/Referrers."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/trackingfront/master/logo.png",
+        "author": "thirty bees",
+        "tab": "analytics_stats",
+        "version": "2.0.3",
+        "binary": "https://github.com/thirtybees/trackingfront/releases/download/2.0.3/trackingfront-v2.0.3.zip"
+    },
+    "vatnumber": {
+        "displayName": {
+            "en-us": "VAT Exemption Module"
+        },
+        "description": {
+            "en-us": "This module adds handling of VAT exemptions for various tax laws."
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/vatnumber/master/logo.png",
+        "author": "thirty bees",
+        "tab": "billing_invoicing",
+        "version": "2.3.1",
+        "binary": "https://github.com/thirtybees/vatnumber/releases/download/2.3.1/vatnumber-v2.3.1.zip"
+    },
+    "paypal": {
+        "displayName": {
+            "en-us": "PayPal"
+        },
+        "description": {
+            "en-us": "PayPal module for thirty bees"
+        },
+        "img": "https://raw.githubusercontent.com/thirtybees/paypal/master/logo.png",
+        "author": "thirty bees",
+        "tab": "payments_gateways",
+        "version": "5.4.3",
+        "binary": "https://github.com/thirtybees/paypal/releases/download/5.4.3/paypal-v5.4.3.zip"
+    },
+    "stripe": {
+        "displayName": {
+            "en-us": "Stripe"
+        },
+        "description": {
+            "en-us": "Stripe module for thirty bees"
+        },
+        "author": "thirty bees",
+        "tab": "payments_gateways",
+        "img": "https://raw.githubusercontent.com/thirtybees/stripe/master/logo.png",
+        "version": "1.7.0",
+        "binary": "https://github.com/thirtybees/stripe/releases/download/1.7.0/stripe-v1.7.0.zip"
+    },
+    "tbcleaner": {
+        "displayName": {
+            "en-us": "thirty bees cleaner"
+        },
+        "description": {
+            "en-us": "Check and fix functional integrity constraints and remove default data"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/tbcleaner/master/logo.png",
+        "version": "2.0.2",
+        "binary": "https://github.com/thirtybees/tbcleaner/releases/download/2.0.2/tbcleaner-v2.0.2.zip"
+    },
+    "tbupdater": {
+        "displayName": {
+            "en-us": "thirty bees Updater"
+        },
+        "description": {
+            "en-us": "Updating thirty bees was moved to Core Updater. Nevertheless this module should still be installed."
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/tbupdater/master/logo.png",
+        "version": "1.5.0",
+        "binary": "https://github.com/thirtybees/tbupdater/releases/download/1.5.0/tbupdater-v1.5.0.zip"
+    },
+    "themeconfigurator": {
+        "displayName": {
+            "en-us": "Theme Configurator"
+        },
+        "description": {
+            "en-us": "Configure the main elements of your theme."
+        },
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "img": "https://raw.githubusercontent.com/thirtybees/themeconfigurator/master/logo.png",
+        "version": "3.0.9",
+        "binary": "https://github.com/thirtybees/themeconfigurator/releases/download/3.0.9/themeconfigurator-v3.0.9.zip"
+    },
+    "thememanager": {
+        "displayName": {
+            "en-us": "Template Manager"
+        },
+        "description": {
+            "en-us": "Lets you choose different templates for different pages."
+        },
+        "author": "thirty bees",
+        "tab": "front_office_features",
+        "img": "https://raw.githubusercontent.com/thirtybees/thememanager/master/logo.png",
+        "version": "1.1.0",
+        "binary": "https://github.com/thirtybees/thememanager/releases/download/1.1.0/thememanager-v1.1.0.zip"
+    },
+    "maxmindgeoip2": {
+        "displayName": {
+            "en-us": "MaxMind Geolocation"
+        },
+        "description": {
+            "en-us": "Geolocation services based on MaxMind GeoIP2 database"
+        },
+        "author": "thirty bees",
+        "tab": "administration",
+        "img": "https://raw.githubusercontent.com/thirtybees/maxmindgeoip2/master/logo.png",
+        "version": "1.0.0",
+        "binary": "https://github.com/thirtybees/maxmindgeoip2/releases/download/1.0.0/maxmindgeoip2-v1.0.0.zip"
+    }
+}

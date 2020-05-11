@@ -1,0 +1,77 @@
+/**
+* 2007-2014 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2014 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+.iqitproducttags{
+	border-top: 1px solid #cecece;
+	margin-top: 15px;
+	padding-top: 15px;
+}
+.iqitproducttags li{
+display: inline-block;
+}
+.iqitproducttags li a{
+background: #EDEDED;
+	color: #fff;
+	text-decoration: none;
+	margin: 0 0 10px 18px;
+	padding: 0px 4px 0px 4px;
+	position: relative;
+	transition: all .25s linear;
+	white-space: nowrap;
+	line-height: 22px;
+	height: 22px;
+	display: block;
+}
+
+.iqitproducttags li a:before {
+	content: "";
+	border-style: solid;
+	border-color: transparent #EDEDED transparent transparent;
+	 border-width: 11px 13px 11px 0;
+	position: absolute;
+	left: -13px;
+	top: 0;
+	transition: all .25s linear;
+}
+
+.iqitproducttags li a:after {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 50% 50% 50% 50%;
+    box-shadow: 0 1px 1px #737373 inset;
+    content: "";
+    height: 5px;
+    left: -6px;
+  	position: absolute;
+  	top: 8px;
+    width: 5px;
+}
+.iqitproducttags li a:hover{
+background: #E5E5E5;
+}
+.iqitproducttags li a:hover:before {
+	border-color: transparent #E5E5E5 transparent transparent;
+}

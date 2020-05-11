@@ -1,0 +1,2 @@
+*ERROR* 	2020/01/25 - 06:55:19: Class 'BeesBlogModule\BeesBlogPost' not found at line 45 in file modules/beesblog/controllers/admin/AdminBeesBlogPostController.php
+*ERROR* 	2020/01/25 - 06:58:17: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/form.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php

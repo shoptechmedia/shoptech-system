@@ -1,0 +1,2 @@
+*ERROR* 	2020/01/29 - 11:11:20: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/edit.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/01/29 - 11:28:35: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/edit.tpl' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php

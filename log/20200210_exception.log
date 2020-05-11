@@ -1,0 +1,8 @@
+*ERROR* 	2020/02/10 - 09:09:18: Cannot use object of type Context as array at line 220 in file controllers/admin/AdminCustomersController.php
+*ERROR* 	2020/02/10 - 09:09:45: syntax error, unexpected '->' (T_OBJECT_OPERATOR) at line 213 in file controllers/admin/AdminCustomersController.php
+*ERROR* 	2020/02/10 - 09:09:49: syntax error, unexpected '->' (T_OBJECT_OPERATOR) at line 213 in file controllers/admin/AdminCustomersController.php
+*ERROR* 	2020/02/10 - 09:10:17: Cannot use object of type stdClass as array at line 220 in file controllers/admin/AdminCustomersController.php
+*ERROR* 	2020/02/10 - 09:20:33: Class 'Newsletter' not found at line 109 in file controllers/admin/AdminNewsletterController.php
+*ERROR* 	2020/02/10 - 09:20:35: Class 'Newsletter' not found at line 109 in file controllers/admin/AdminNewsletterController.php
+*ERROR* 	2020/02/10 - 09:22:23: Class 'Newsletter' not found at line 110 in file controllers/admin/AdminNewsletterController.php
+*ERROR* 	2020/02/10 - 09:22:27: Class 'Newsletter' not found at line 110 in file controllers/admin/AdminNewsletterController.php

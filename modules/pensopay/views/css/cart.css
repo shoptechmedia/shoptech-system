@@ -1,0 +1,13 @@
+.terms-checkbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.condition-label {
+    padding-left: 18px;
+}
+
+ul.terms-conditions > li {
+    position: relative;
+}

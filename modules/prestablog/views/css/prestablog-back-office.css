@@ -1,0 +1,5 @@
+/* icone du menu Admin pour 1.6 */
+.icon-AdminPrestaBlog:before {
+    color: #91bc05;
+    content: "\f15c";
+}

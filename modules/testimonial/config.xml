@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[testimonial]]></name>
+  <displayName><![CDATA[Testimonial Module]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[Testimonial Module]]></description>
+  <author><![CDATA[Prestaspeed.dk]]></author>
+  <author_uri/>
+  <tab><![CDATA[testimonial]]></tab>
+  <confirmUninstall><![CDATA[Are you sure to uninstall?]]></confirmUninstall>
+  <is_configurable>1</is_configurable>
+  <need_instance>1</need_instance>
+  <limited_countries/>
+</module>

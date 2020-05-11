@@ -1,0 +1,77 @@
+.event-tab-content {
+	display: none;
+	width: 100%;
+}
+
+.event-tab-content.active{
+	display: inline-block;
+}
+
+.delete_event_image{
+	position: absolute;
+	top: 0;
+}
+
+.stmeField{
+	width: 100%;
+}
+
+.stmeField label{
+	text-transform: capitalize;
+}
+
+.stmeField input{
+	max-width: 500px;
+}
+
+.bootstrap fieldset{
+    border-bottom: 1px solid;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.DateSection button{
+	margin-bottom: 15px;
+}
+
+.DateSection{
+    width: 828px;
+    margin: 0 auto;
+}
+
+.DateSection fieldset{
+    padding: 15px 0 0;
+}
+
+.bootstrap .table tbody>tr>td{
+	padding: 8px;
+}
+
+.STMClose{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: red;
+	border-radius: 50%;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	padding-top: 5px;
+	color: #fff;
+	z-index: 9;
+	cursor: pointer;
+}
+
+.bootstrap a.list-group-item {
+    width: auto;
+    display: inline-block;
+}
+
+.separator td{
+	border: solid 1px #a0d0eb !important; 
+	padding: 0 !important;
+}
+
+.bootstrap .event-table{
+	border-collapse: collapse !important;
+}

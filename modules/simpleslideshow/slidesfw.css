@@ -1,0 +1,79 @@
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ #ei-slider-fw img{
+ opacity: 0;
+visibility:  hidden;
+transition: visibility 200ms ease-in-out, opacity 200ms ease-in-out, max-height 200ms ease-in-out;
+max-height:  0px;
+ }
+/* Browser Resets */
+#ei-slider-fw{margin-bottom: 0px; direction: ltr !important;}
+#center_column #ei-slider-fw{margin-bottom: 20px;}
+
+#ei-slider-fw .slick-list{
+	padding: 0px;
+	margin: 0px;
+	direction: ltr !important;
+}
+
+#ei-slider-fw .slick-prev, #ei-slider-fw .slick-next{
+	opacity: 0;
+	visibility: hidden;
+}
+
+#ei-slider-fw:hover .slick-prev, #ei-slider-fw:hover .slick-next{
+	opacity: 0.8;
+	visibility: visible;
+}
+#ei-slider-fw:hover .slick-prev:hover, #ei-slider-fw:hover .slick-next:hover{
+	opacity: 1;
+}
+#ei-slider-fw:hover .slick-prev{
+	left: 30px;
+}
+#ei-slider-fw:hover .slick-next{
+	right: 30px;
+}
+
+
+#ei-slider-fw .slick-list{
+overflow: visible;
+}
+
+#ei-slider-fw .slick-slide{
+	  background: #000;
+}
+
+#ei-slider-fw .slick-slide img{
+	  opacity: 0.5;
+	  max-height: 1200px;
+visibility:  visible;
+}
+
+#ei-slider-fw .slick-active img{
+	  opacity: 1;
+}
+
+#ei-slider-fw .slick-dots{
+	bottom: 5px;
+}
+
+.loading_mainslider{
+background: url('loader.gif') no-repeat center center;
+min-height: 150px;}
+
+.fw-pseudo-wrapper-slider{
+	overflow: hidden;
+}
+
+.is_rtl #ei-slider-fw:hover .slick-prev{ left: auto; right: 30px;}
+.is_rtl #ei-slider-fw:hover .slick-next{ right: auto; left: 30px;}

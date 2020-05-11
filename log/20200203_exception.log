@@ -1,0 +1,2 @@
+*ERROR* 	2020/02/03 - 15:06:15: Unknown column 'tt.is_active' in 'where clause' at line 133 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/02/03 - 15:06:18: Unknown column 'tt.is_active' in 'where clause' at line 133 in file controllers/admin/AdminTicketingController.php

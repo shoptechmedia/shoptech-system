@@ -1,0 +1,129 @@
+Version 2.2.1 :
+      - Add error message if there is no product found with the used filter when trying to save the discount (if filter button is not clicked for example)
+Version 2.2.0 :
+      - Allow to choose multiple suppliers and manufacturers (in the products display filter)
+Version 2.1.0 :
+      - Allow to use all filters (not just category) when not loading products
+      - Do not display head column period if no columns are displayed for the period
+Version 2.0.0 :
+      - Modernization of the appearance
+      - Add CSV export
+Version 1.16.1 :
+      - Add scrolling to the result message after saving configuration
+      - Update error message in no reduction to save
+      - Fix issue with documentation
+      - Allow to add fixed price + percentage/amount discount
+      - Add filter based on if products have reductions or not (under Displayed products (active or not)
+Version 1.16.0 :
+      - Add option to not load and display products (useful for heavy shop)
+Version 1.15.2 :
+      - Compatibility with Prestashop 1.7.4
+Version 1.15.2 :
+      - Fixed issue when there is a thousand separator in price format
+Version 1.15.0 :
+      - Compatibility with Prestashop 1.7.1
+Version 1.14.2 :
+      - Fix error with percentage discount
+Version 1.14.1 :
+      - Fix for Prestashop 1.5
+Version 1.14.0 :
+      - Compatibility with Prestashop 1.7
+Version 1.13.2 :
+      - Fix for division by 0 when product price is at 0
+Version 1.13.1 :
+      - Fix for multishop
+Version 1.13.0 :
+      - Display the documentation tab last
+      - Link on product image to the front product page
+      - Link on product reference to the admin product page
+      - Add margin after discount
+      - Add price tax excluded
+Version 1.12.4 :
+      - Call the hook actionProductUpdate when the quantity is updated
+Version 1.12.3 :
+      - Init price can be reset
+Version 1.12.2 :
+      - Fix not initialized variable
+Version 1.12.1 :
+      - Fix double variable name
+Version 1.12.0 :
+      - Add link to product on image product
+      - Add title with product's name, reference and price on each products line
+      - Add version on documentation's tab
+Version 1.11.3 :
+      - Fix ajax path
+Version 1.11.2 :
+      - Add filter by manufacturer
+Version 1.11.1 :
+      - Correction for multishop
+      - Add filter by supplier
+Version 1.11.0 :
+      - Send the ajax request in pack if there is more than 1000 input
+      - Delete reduction after replace
+      - Fix ajax path for https
+Version 1.10.1 :
+      - Save the previous product base price
+Version 1.10.0 :
+      - French translation improvement
+      - Fix ajax path
+      - Add search function on product's name and reference
+      - On sale option can be activated without reduction
+      - Add last reduced price column
+      - Add current reduced price column
+      - Add next reduced price column
+      - Disable max memory and time upgrade
+Version 1.9.3 :
+      - Structure improvement for Presta Validator
+Version 1.9.2 :
+      - Increase memory limit for ajax (in case of lots of products)
+Version 1.9.1 :
+      - Increase time limit for ajax (in case of slow server)
+Version 1.9.0 :
+      - Option to update reductions without CRON
+Version 1.8.1 :
+      - It is now possible to program a reduction during an unlimited reduction
+Version 1.8.0 :
+      - Add the possibility to change product quantity if no attributes and quantity change by hand
+Version 1.7.2 :
+      - Better compatibility for category tree view
+Version 1.7.1 :
+      - Correction for multi days
+      - Add call to hook actionProductUpdate
+      - Security improvement
+Version 1.7.0 :
+      - Addition of recurring discount
+      - Highlight product if catalog rules are applied
+      - Improve unlimited date reduction
+Version 1.6.2 :
+      - Fix base url for Prestashop Cloud
+Version 1.6.1 :
+      - Fix base url
+Version 1.6.0 :
+      - Addition of tabs allowing the acces to all module options
+      - Possibility of hiding certain columns
+      - Display products' photo and quantity
+      - Colors modification
+      - Addition of a documentation download link
+      - Correction for multistore
+      - Code improvement
+Version 1.5.1 :
+      - Addition of a cron to update the products part "on sale"
+Version 1.5.0 :
+      - Addition of the option "on sale" for products
+      - Correction of adding link of JS files
+Version 1.4.1 :
+      - Correction of the dates' problems after duplication of a product
+Version 1.4.0 :
+      - Possibility to set reductions without date (reduction are available for 15 years then)
+Version 1.3.0 :
+      - Possibility of setting a price definitively (not temporarily) by an increase
+          (instead of a reduction) by supplying a fixed amount or a percentage
+Version 1.2.0 :
+      - Compatibility with Prestashop 1.6
+Version 1.1.0 :
+      - Addition of a column allowing the automatic calculation of the reduction according to the price to reach.
+      - Addition of a filter on the products active / inactive.
+      - Display's modification
+      - Features' improvement
+Version 1.0 :
+      - First version for prestashop 1.5

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[n45xspeed]]></name>
+  <displayName><![CDATA[Speed X 45]]></displayName>
+  <version><![CDATA[2.6.4]]></version>
+  <description><![CDATA[Boost your Prestashop speed - 45x faster!]]></description>
+  <author><![CDATA[Prestaspeed.dk]]></author>
+  <author_uri/>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>

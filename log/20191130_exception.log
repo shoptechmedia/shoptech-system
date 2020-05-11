@@ -1,0 +1,10 @@
+*ERROR* 	2019/11/30 - 09:02:15: Class 'PiwikAnalytics' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:02:17: Class 'PiwikAnalytics' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:02:33: Class 'PiwikAnalyticsController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:02:34: Class 'PiwikAnalyticsController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:02:53: Class 'PiwikAnalyticsController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:03:37: Class 'PiwikAnalyticsController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:03:38: Class 'PiwikAnalyticsController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:03:44: Class 'PiwikAnalyticsController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:42:58: Class 'PiwikAnalyticsEcommerceController' not found at line 123 in file classes/controller/Controller.php
+*ERROR* 	2019/11/30 - 09:43:01: Class 'PiwikAnalyticsEcommerceController' not found at line 123 in file classes/controller/Controller.php

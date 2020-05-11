@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[blockcart]]></name>
+  <displayName><![CDATA[Block Cart]]></displayName>
+  <version><![CDATA[2.0.4]]></version>
+  <description><![CDATA[Adds a block containing the customer's shopping cart.]]></description>
+  <author><![CDATA[thirty bees]]></author>
+  <author_uri/>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>

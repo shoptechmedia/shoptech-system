@@ -1,0 +1,37 @@
+.STM_GroupP{
+	text-align: center;
+    display: inline-block;
+}
+
+.STM_GroupP_Header {
+    display: inline-block;
+    font-size: 19px;
+    font-weight: 600 !important;
+    margin-left: 6px;
+    margin-top: 8px !important;
+    color: #484848;
+    margin-right: 25px;
+}
+
+.STM_GroupP select{
+	color: #333 !important;
+    border-color: #333 !important;
+    margin: 2px 0px 0;
+    padding: 4px 15px;
+    border-radius: unset;
+    font-size: 14px;
+    vertical-align: top;
+    margin-right: 12px;
+    text-transform: capitalize;
+    height: 32px;
+}
+
+#STM_GroupP_Reset{
+    background-color: transparent;
+    border: 0;
+    width: 45px;
+}
+
+#STM_GroupP_Reset img{
+    max-width: 100%;
+}

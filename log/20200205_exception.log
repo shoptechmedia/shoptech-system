@@ -1,0 +1,8 @@
+*ERROR* 	2020/02/05 - 10:06:46: syntax error, unexpected ';', expecting ']' at line 457 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/02/05 - 10:11:34: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/02/05 - 10:11:34: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/02/05 - 10:11:35: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/02/05 - 10:11:35: Unable to load template 'file:/home/shoptech/public_html/demo/login888/themes/default/template/controllers/ticketing/' at line 185 in file vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php
+*ERROR* 	2020/02/05 - 10:25:03: Db->executeS() must be used only with select, show, explain or describe queries at line 500 in file controllers/admin/AdminTicketingController.php
+*ERROR* 	2020/02/05 - 15:01:56: Db->executeS() must be used only with select, show, explain or describe queries at line 485 in file modules/statsmodule/stats/statsproduct.php
+*ERROR* 	2020/02/05 - 15:02:10: Db->executeS() must be used only with select, show, explain or describe queries at line 485 in file modules/statsmodule/stats/statsproduct.php

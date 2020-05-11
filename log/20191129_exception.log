@@ -1,0 +1,7 @@
+*ERROR* 	2019/11/29 - 07:40:48: Uncaught TypeError: Argument 1 passed to Piwik\Plugins\Monolog\Processor\ExceptionToTextProcessor::getWholeBacktrace() must be an instance of Exception, instance of Error given, called in /home/shoptech/public_html/demo/analytics/core/API/ResponseBuilder.php on line 177 and defined in /home/shoptech/public_html/demo/analytics/plugins/Monolog/Processor/ExceptionToTextProcessor.php:86
+Stack trace:
+#0 /home/shoptech/public_html/demo/analytics/core/API/ResponseBuilder.php(177): Piwik\Plugins\Monolog\Processor\ExceptionToTextProcessor::getWholeBacktrace(Object(Error), false)
+#1 /home/shoptech/public_html/demo/analytics/core/API/ResponseBuilder.php(137): Piwik\API\ResponseBuilder->formatExceptionMessage(Object(Error))
+#2 /home/shoptech/public_html/demo/analytics/core/ExceptionHandler.php(110): Piwik\API\ResponseBuilder->getResponseException(Object(Error))
+#3 /home/shoptech/public_html/demo/analytics/core/ExceptionHandler.php(85): Piwik\ExceptionHandler::getErrorResponse(Object(Error))
+#4 /home/shoptech/public_html/ at line 86 in file analytics/plugins/Monolog/Processor/ExceptionToTextProcessor.php

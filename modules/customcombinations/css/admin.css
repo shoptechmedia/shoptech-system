@@ -1,0 +1,13 @@
+.event-tab-content {
+	display: none;
+	width: 100%;
+}
+
+.event-tab-content.active{
+	display: inline-block;
+}
+
+.bootstrap .eventTabs a.list-group-item {
+    width: auto;
+    display: inline-block;
+}

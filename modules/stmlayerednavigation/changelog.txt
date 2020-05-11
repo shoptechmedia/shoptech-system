@@ -1,0 +1,172 @@
+Version 4.0.17
+2015-08-18 2015-09-01
+Fixed fee for Maestro.
+Handle case where order_id already exists.
+Version 4.0.17
+2015-09-01 2015-10-01
+File: quickpay.php
+Version 4.0.18.
+Check fees are valid.
+Fixed transition from version 4.0.15.
+Version 4.0.19
+2015-09-30 2015-10-01
+Support for PHP 5.3.
+Version 4.0.20
+2015-10-01 2015-10-31
+Fixed description for key used with fees.
+Fixed cancel function.
+Only use mobilepay for DK.
+Fees for foreign cards were not displayed.
+Version 4.0.21
+2015-10-31 2016-02-02
+Updated manual.
+Handle order that has already been paid.
+Check user key when configuration is saved.
+Round fee to 6 decimals.
+Removed api_key and agreement_id from configuration.
+Check for default currency.
+Show failure if the currency was changed.
+Die if payment fails (due to wrong key etc.).
+Warning if shop is in maintenance mode.
+Put order in error state if callback was not detected.
+Setting for test payments added.
+Version 4.0.22
+2016-02-03 2016-02-06
+Handle reused order ID (cart ID) gracefully.
+Version 4.0.23
+2016-02-06 2016-02-29
+Check access rights for payments when configuration is saved.
+Display fraud suspected data.
+Product for fee is now always deactivated.
+Fixed handling of amounts in JPY and other currencies that have a number of decimals that is not 2.
+Set currency in context to cart currency.
+Version 4.0.24
+2016-02-29 2016-04-14
+Reject validation if payment has already been accepted.
+Added extra check for failed payment.
+Added facilitator to payment status (e.g. MobilePay).
+Version 4.0.25
+2016-04-14 2016-06-18
+Fixed payment fee in combination with cart rule.
+Handle general cURL error.
+Changed text for combined 3D credit cards.
+Version 4.0.26
+2016-06-18 2016-08-03
+Fixed date format for PrestaShop 1.4.
+Make sure that language file is copied for PrestaShop 1.4.
+Use QuickPay table to check for validated order.
+Catch exceptions in validation.
+Added support for Clearhaus text on statement.
+Product for fee must be visible in all stores.
+Handle fees for MobilePay properly.
+Use HTTP_RAW_POST_DATA if php://input is empty.
+Only create table if it does not exist.
+Ignore already processed payments in callback.
+Version 4.0.27
+2016-08-04 2016-10-09
+Removed eDankort.
+Fixed fee calculation when discount is added for PrestaShop 1.6.1.4 and later.
+Remove discounts from fee product.
+Version 4.0.28
+2016-10-09 2016-10-15
+Added Swipp.
+Version 4.0.29
+2016-10-15 2016-12-09
+Validator changes.
+Removed support for SWIPP.
+Added fraud remark.
+Fixed problem in PrestaShop 1.7 where the smarty function "displayPrice" is missing.
+First version for PrestaShop 1.7.
+Fixed PHP notifications.
+Inhibit the log message: "Frontcontroller::init - Cart cannot be loaded or an order has already been placed using this cart" when order is complete.
+Version 4.0.30
+2016-12-09 2016-12-25
+Cast IDs to int for improved security.
+Updated Mastercard 3d image.
+Version 4.0.31
+2016-12-25 2017-01-27
+Fixed bug for order numbers with non-numerical prefix.
+Version 4.0.32
+2016-01-27 2017-02-16
+Added selection for fee tax.
+Version 4.0.33
+2017-02-16 2017-03-19
+Added extra information (order ID/reference etc.).
+Fixed amount for payments with failed attempts.
+Fixed problem with discounts when fee had been added.
+Version 4.0.34
+2017-03-19 2017-10-05
+Guests did not end up on the right completion page.
+Added Klarna.
+Fixed transfer of mobile number for MobilePay.
+Improved logo selection.
+Added support for Swish.
+Added small Maestro 3D image.
+Added Google Analytics fields.
+Added module version as payment variable.
+Removed unnecessary Paii parameters.
+Added support for basket in payment.
+Added support for Klarna.
+Fixed transfer of mobile number for MobilePay.
+Fixed autoget for card locks.
+Fixed Visa/Dankort fee for currencies that are not DKK.
+Added configuration option for visible/hidden icons.
+Added support for Swish
+Removed deprecated parameter for displayDate().
+Use fromQpAmount() and toQpAmount() for all amount conversions.
+Handle rounding problem e.g. with JPY
+Added autoget option.
+Enable MobilePay for Norway and Finland.
+Version 4.0.35
+2017-10-06 2017-11-12
+Set fee name for all languages.
+Set utm_nooverride in return URL.
+Use cart->id_lang instead of PS_LANG_DEFAULT in addFee().
+Version 4.0.36
+2017-10-25 2017-11-12
+Do not set basket contents when payment method is PayPal. PayPal calculates the VAT differently from PrestaShop.
+Fixed compatibility problem with very old PHP (5.4).
+Removed usage of callback.
+Show orders in back office even if quickpay table has been emptied.
+Version 4.0.37
+2017-11-22 2017-11-23
+Do not invalidate cart cache.
+Version 4.0.38.
+Fixed problem for basket with % in product names.
+Fixed unwanted log message: Frontcontroller::init - Cart cannot be loaded or an order has already been placed using this cart
+Version 4.0.39
+2017-11-23 2017-12-15
+Removed unwanted spaces in test for PayPal method.
+Fixed module_version in variables.
+Version 4.0.40
+2017-12-15 2018-01-12
+Added shipping cost to payment information.
+Removed colon.
+Version 4.0.41
+2017-12-15 2018-02-08
+Parameter was missing for toQpAmount().
+Version 4.0.42
+2018-02-09 2018-02-19
+Reintroduced callback function.
+Version 4.0.43
+2018-02-19 2018-05-09
+Added Apple Pay and Bitcoin.
+Fixed PayPal payments with shipping cost greater than zero.
+Version 4.0.44
+2018-05-09 2019-01-03
+Added support for MobilePay Checkout.
+Fixed back office confirmation message.
+Removed obsolete argument (language ID) from displayDate.
+Added payment methods mastercard-debet (without -dk) and 3d_mastercard-debet (without -dk)
+Modified styling for logos.
+Use shop specific configuration for order (multistore) in admin panel.
+The variable "link" was missing in back office for PrestaShop 1.6.
+Fixed logging for PrestaShop 1.7.
+Ignore double validation (unnecessary log message removed).
+Fixed fail message (currency changed, test order) for PrestaShop 1.7.
+Use getMediaLink() for logos.
+Renamed Quickpay to QuickPay.
+Version 4.0.45
+2019-01-07 2019-01-14
+Fixed phone number for MobilePay Checkout.
+MobilePay Checkout option was not always properly disabled.

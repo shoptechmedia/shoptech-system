@@ -1,0 +1,41 @@
+[19-Apr-2017 04:55:49 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 4
+[19-Apr-2017 05:00:55 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 4
+[19-Apr-2017 05:02:28 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 4
+[19-Apr-2017 05:04:26 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 4
+[19-Apr-2017 05:04:56 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 4
+[19-Apr-2017 05:05:28 CST6CDT] PHP Warning:  Unterminated comment starting line 3 in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 3
+[19-Apr-2017 05:07:11 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 7
+[19-Apr-2017 05:07:11 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 7
+[19-Apr-2017 05:10:01 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 8
+[19-Apr-2017 05:12:53 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 10
+[19-Apr-2017 05:14:15 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Db' not found in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/minprest/public_html/kobe/modules/canonicalheaders/includes/ajax.php on line 10

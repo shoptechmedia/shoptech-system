@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>viabillpricetag</name>
+	<displayName><![CDATA[ViaBill pricetags]]></displayName>
+	<version><![CDATA[0.8]]></version>
+	<description><![CDATA[Tilføj ViaBill pricetags til dine varer]]></description>
+	<author><![CDATA[CM-telecom]]></author>
+	<tab><![CDATA[pricing_promotion]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

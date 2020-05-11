@@ -1,0 +1,130 @@
+body.adminmodules #module_form{
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s;
+}
+
+body.adminmodules #module_form.open {
+	max-height: 9999px;
+}
+
+.searched_products{
+	background-color: #c7ecfe;
+	border: 1px solid #8fbace;
+	border-top: 0;
+	border-radius: 0 0 10px 10px;
+	max-height: 250px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.searched_products span{
+	padding: 5px 7px;
+	border-bottom: 1px solid #8fbace;
+	cursor: pointer;
+	display: none;
+}
+
+.searched_products span:hover{
+	background-color: #8fbace;
+	color: #fff;
+}
+
+.searched_products span.searched{
+	display: block;
+}
+
+.searched_products span.selected{
+	display: none;
+}
+
+.holiday_item{
+	border-bottom: 1px solid #333;
+	width: 100%;
+}
+
+.holiday_item span{
+	padding: 10px 0;
+}
+
+#selected_products{
+	margin-top: 20px;
+}
+
+#selected_products > div{
+	float: left;
+	width: 100%;
+}
+
+#selected_products button{
+	float: left;
+	border: none;
+	background-color: transparent;
+	position: relative;
+	top: -3px;
+}
+
+#selected_products i{
+	font-size: 21px;
+	color: red;
+}
+
+.delete_banner_image{
+	position: absolute;
+	top: 0;
+}
+
+.bootstrap .productTree_item,
+.bootstrap .customerTree_item {
+	background-color: #eee;
+	width: 100%;
+
+	margin-bottom: 3px;
+	padding: 5px 7px;
+}
+
+.bootstrap .productTree_item.active,
+.bootstrap .customerTree_item.active {
+	background-color: #ecf6fb;
+}
+
+.scrollableOptions {
+	height: 400px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	padding: 0 5px;
+	margin-bottom: 30px;
+}
+
+.deleteTreeItem {
+	color: red;
+	margin-right: 5px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.hidden{
+	display: none;
+}
+
+#ActionRow{
+	margin-top: 15px;
+}
+
+.productTree_item span{
+	color: #bf0005;
+}
+
+.productTree_item a{
+	color: #000;
+}
+
+.ProductDiscounts .row{
+	margin-bottom: 10px;
+}
+
+#productSearchFilter{
+	width: 200px;
+	display: inline;
+	float: right;
+}

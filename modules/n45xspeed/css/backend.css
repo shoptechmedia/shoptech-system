@@ -1,0 +1,179 @@
+#header_shopname{
+    max-width: 132px;
+    overflow-x: hidden;
+}
+
+#header_notifs_icon_wrapper{
+    min-width: 125px;
+    /*overflow-x: hidden;*/
+}
+
+.bootstrap #header_quick > li#anchorExtraInfos{
+    position: static;
+}
+
+#extraInfos{
+    background-color: #333;
+    list-style: none;
+    margin-left: 0;
+    padding: 0;
+    clear: both;
+    margin-bottom: 0;
+    border-bottom: 1px solid #000;
+    max-height: 45px;
+    color:#fff;
+    width: 100%;
+}
+
+#extraInfos li{
+    display: inline-block;
+    height:40px;
+    //padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    vertical-align: top;
+}
+
+#extraInfos li:last-child{
+    float:right;
+    padding-top: 8px;
+}
+
+#extraInfos a{
+    color:#fff;
+}
+
+.withExtraInfos #main{
+    margin-top:41px;
+}
+
+.withExtraInfos .bootstrap .page-head{
+    top:77px;
+}
+
+#extraInfos input[type="submit"]{
+    background-color: #00aff0;
+    border: 0;
+    padding: 5px 15px;
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-top: -1px;
+}
+
+#extraInfos label{
+    margin-left: 5px;
+    margin-right: 15px;
+    cursor:pointer;
+}
+
+#extraInfos input[type="radio"]{
+    position: relative;
+    top: 3px;
+    cursor:pointer;
+}
+
+#CacheStats {
+    background-color: #222;
+    position: fixed;
+    left: 0;
+    top: 76px;
+    border: 0;
+    border-radius: 0;
+    right: 1px;
+    margin-left: 0;
+    padding-left: 11px;
+    padding-top: 6px;
+}
+
+#rebuildInterface{
+    background-color: #222;
+    padding: 8px 13px;
+    top: 76px;
+    position: absolute;
+    z-index: 1000;
+    float: left;
+    left: 0;
+}
+
+#rebuildProgress{
+    width:250px;
+    display:inline-block;
+    position: relative;
+}
+
+#rebuildProgress .ui-progressbar-value{
+    border: 0;
+    margin: 0;
+
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+    background-color: green;
+    background-repeat: repeat-x;
+    background-size: 23px 24px;
+    background-position: left center;
+
+    transition: width 1s;
+    -moz-transition: width 1s;
+    -webkit-transition: width 1s;
+}
+
+#rebuildingPage{
+    vertical-align: top;
+    padding-left: 10px;
+    padding-top: 5px;
+    display: inline-block;
+    color: #fff;
+}
+
+#rebuildProgress .percentage{
+    position: absolute;
+    top: 3px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color:#FA5;
+}
+
+.bootstrap #header_quick{
+    display: block!important;
+}
+
+@media screen and (max-width: 980px){
+    #extraInfos li:last-child{
+        float:none;
+    }
+
+    #CacheStats{
+        top:116px;
+    }
+
+    #extraInfos{
+        max-height: none;
+        padding-left: 10px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    #extraInfos{
+        max-height: none;
+        height: auto;
+        padding-bottom: 10px;
+    }
+
+    #extraInfos li{
+        height:auto;
+        padding:15px;
+    }
+
+    #extraInfos li:last-child{
+        float:none;
+    }
+
+    #extraInfos li.dropdown{
+        padding:0;
+    }
+
+    #CacheStats {
+        position: static;
+        padding-top: 0;
+    }
+}

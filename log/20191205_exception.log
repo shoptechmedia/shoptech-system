@@ -1,0 +1,7 @@
+*ERROR* 	2019/12/05 - 06:33:50: Uncaught Error: Class 'Piwik\API\Request' not found in /home/shoptech/public_html/demo/analytics/core/ExceptionHandler.php:106
+Stack trace:
+#0 /home/shoptech/public_html/demo/analytics/core/ExceptionHandler.php(85): Piwik\ExceptionHandler::getErrorResponse(Object(Error))
+#1 /home/shoptech/public_html/demo/analytics/core/ExceptionHandler.php(40): Piwik\ExceptionHandler::dieWithHtmlErrorPage(Object(Error))
+#2 [internal function]: Piwik\ExceptionHandler::handleException(Object(Error))
+#3 {main}
+  thrown at line 106 in file analytics/core/ExceptionHandler.php
