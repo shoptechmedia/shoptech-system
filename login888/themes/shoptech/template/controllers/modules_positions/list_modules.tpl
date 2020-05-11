@@ -30,19 +30,19 @@
 <div>{block name="leadin"}{/block}</div>
 
 {if !$can_move}
-					<p class="alert alert-warning">
-						{l s='If you want to order/move the following data, please select a shop from the shop list.'}
-					</p>
+	<p class="alert alert-warning">
+		{l s='If you want to order/move the following data, please select a shop from the shop list.'}
+	</p>
 {/if}
 
 <div class="row">
 	<div class="col-lg-9">
 		<div class="">
 			<form class="panel well form-horizontal" id="position_filer">
-				<div class="row">
-					<div class="form-group col-lg-6 col-sm-12">
+				<div class="card-body row mx-0">
+					<div class="form-group col-lg-6 col-sm-12 mx-0">
 						<div class="col-lg-7">
-							<select id="show_modules" class="filter" style="width: 100%;">
+							<select id="show_modules" style="width: 100%;">
 								<option value="all">{l s='Show'} {l s='All modules'}&nbsp;</option>
 								{foreach $modules as $module}
 									<option value="{$module->id|intval}"{if $display_key == $module->id} selected="selected"{/if}>{$module->displayName|escape:'html':'UTF-8'}</option>
@@ -50,24 +50,24 @@
 							</select>
 						</div>
 					</div>
-					<div class="form-group col-lg-6 col-sm-12">
+					<div class="form-group col-lg-6 col-sm-12 mx-0">
 						<label class="control-label col-lg-offset-1 col-lg-4" style="text-align: left">{l s='Search for a hook'}</label>
 						<div class="col-lg-7">
 							<div class="input-group">
-								<div class="input-group-addon"><i class="icon icon-search"></i></div>
+								<div class="input-group-addon"><i class="ion-ios7-search"></i></div>
 								<input type="text" class="form-control" id="hook_search" name="hook_search" placeholder="">
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-sm-12">
-							<p class="checkbox">
-								<label class="control-label" for="hook_position">
-									<input type="checkbox" id="hook_position"/>
-									{l s='Display non-positionable hooks'}
-								</label>
-							</p>
+				<div class="card-body row mx-0">
+					<div class="col-sm-12 mx-0">
+						<p class="checkbox">
+							<label class="control-label" for="hook_position">
+								<input type="checkbox" id="hook_position"/>
+								{l s='Display non-positionable hooks'}
+							</label>
+						</p>
 					</div>
 				</div>
 			</form>
