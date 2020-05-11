@@ -668,7 +668,7 @@ class FrontControllerCore extends Controller
             $decimals = Configuration::get('PS_PRICE_DISPLAY_PRECISION');
         }
         // Added powered by for builtwith.com
-        header('Powered-By: thirty bees');
+        header('Powered-By: Shoptech.Media');
         // Hooks are voluntary out the initialize array (need those variables already assigned)
         $this->context->smarty->assign(
             [
